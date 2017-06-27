@@ -16,6 +16,12 @@ List of resources related to topics of AI/ML and Deep Learning specifically
 | [The Wild Week in AI](https://www.getrevue.co/profile/wildml) | Weekly newsletter (AI, DL) |
 | [City AI](https://www.getrevue.co/profile/CityAI) | Monthly newsletter (AI) |
 
+# GPU servers hosting #
+
+| Service | Link | Details |
+| --- | --- | --- |
+| FloydHub | https://www.floydhub.com/ | Per second pricing, quick launch, very competitive prices |
+
 # Frameworks #
 
 | Name | Link | Language | Comment |
