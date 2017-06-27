@@ -11,6 +11,7 @@ List of resources related to topics of AI/ML and Deep Learning specifically
 | http://www.datatau.com/ | AI/ML dedicated forum |
 | [AI/ML cheat sheet](https://github.com/kailashahirwar/cheatsheets-ai) | Constantly updated |
 | [Kaggle past solutions](http://ndres.me/kaggle-past-solutions/) | Good collection, but still missing many entries |
+| [SDS podcast](https://www.superdatascience.com/podcast/) | Data science focused podcast |
 
 # Frameworks #
 
