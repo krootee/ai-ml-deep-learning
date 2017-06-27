@@ -1,6 +1,17 @@
 # ai-ml-deep-learning
 List of resources related to topics of AI/ML and Deep Learning specifically
 
+# Useful sites #
+
+| Name | Comment |
+| --- | --- |
+| [arXiv by Cornell University](https://arxiv.org/) | All  AI/ML/DL papers appear hear |
+| [Search arXiv AI/ML/DL related papers](http://www.arxiv-sanity.com/) | Search on top of arXiv |
+| https://www.reddit.com/r/MachineLearning/ | AI/ML subforum |
+| http://www.datatau.com/ | AI/ML dedicated forum |
+| [AI/ML cheat sheet](https://github.com/kailashahirwar/cheatsheets-ai) | Constantly updated |
+| [Kaggle past solutions](http://ndres.me/kaggle-past-solutions/) | Good collection, but still missing many entries |
+
 # Frameworks #
 
 | Name | Link | Language | Comment |
