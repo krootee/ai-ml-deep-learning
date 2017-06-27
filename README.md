@@ -58,3 +58,4 @@ List of resources related to topics of AI/ML and Deep Learning specifically
 | matplotlib | https://matplotlib.org/ | Data visualization |
 | Seaborn | https://seaborn.pydata.org/ | Statistical data visualization |
 | Scikit-plot | https://github.com/reiinakano/scikit-plot | Add plotting to scikit-learn |
+| keras-vis | https://github.com/raghakot/keras-vis | Visualization of Keras DL layers |
