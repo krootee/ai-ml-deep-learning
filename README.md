@@ -1,7 +1,7 @@
 # ai-ml-deep-learning
 List of resources related to topics of AI/ML and Deep Learning specifically
 
-Frameworks:
+# Frameworks #
 
 | Name | Link | Language | Comment |
 | --- | --- | --- | --- |
@@ -14,7 +14,9 @@ Frameworks:
 | Nnabla | https://nnabla.org/ | C++ | Neural Network Libraries by Sony |
 | Core ML | https://developer.apple.com/documentation/coreml | ? | Apple OS only |
 
-| Course name | Link | Rating | Comment |
+# Online courses #
+
+| Name | Link | Rating | Comment |
 | --- | --- | --- | --- |
 | Neural Networks Demystified | [Youtube playlist](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU) | :star::star::star::star: | Good intro to neural networks - heavy on math, uses Python code |
 | CS231n: Convolutional Neural Networks for Visual Recognition | http://cs231n.stanford.edu/ <br> https://cs231n.github.io/ <br> [Youtube playlist](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)  | :star::star::star::star::star: | Start Deep Learning education from this one - focused on image processing |
@@ -22,3 +24,16 @@ Frameworks:
 | CS224d: Deep Learning for Natural Language Processing | http://cs224d.stanford.edu/ <br> [Youtube playlist](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) | In Progress | Focus - NLP with Deep Learning |
 | Deep Learning 101 | https://cognitiveclass.ai/courses/introduction-deep-learning/ | Skip it | Tries to do overview without providing details - more like DP for non-IT person |
 | Deep Learning with TensorFlow | https://cognitiveclass.ai/courses/deep-learning-tensorflow/ | Skip it | Very high level with not enough "meat" |
+
+# Python libraries and tools #
+| Name | Link | Comment |
+| --- | --- | --- |
+| Jupyter notebook | https://jupyter.org/ | Use it :) |
+| NumPy | http://www.numpy.org/ | Math |
+| SciPy | https://www.scipy.org/scipylib/index.html | Math |
+| CuPy | https://cupy.chainer.org/ | CUDA accelerated Numpy |
+| Pandas | http://pandas.pydata.org/ | Data analysis |
+| Scikit | http://scikit-learn.org/stable/ | Machine Learning algorithms |
+| matplotlib | https://matplotlib.org/ | Data visualization |
+| Seaborn | https://seaborn.pydata.org/ | Statistical data visualization |
+| Scikit-plot | https://github.com/reiinakano/scikit-plot | Add plotting to scikit-learn |
