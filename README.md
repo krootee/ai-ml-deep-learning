@@ -11,8 +11,8 @@
 | [AI/ML cheat sheet](https://github.com/kailashahirwar/cheatsheets-ai) | Constantly updated |
 | [Kaggle past solutions](http://ndres.me/kaggle-past-solutions/) | Good collection, but still missing many entries |
 | [SDS podcast](https://www.superdatascience.com/podcast/) | Data science focused podcast |
-| [Deep Learning Weekly](http://www.deeplearningweekly.com/) | Weekly newsletter (DL) |
-| [The Wild Week in AI](https://www.getrevue.co/profile/wildml) | Weekly newsletter (AI, DL) |
+| [Deep Learning Weekly](http://www.deeplearningweekly.com/) | Weekly newsletter (Deep Learning) |
+| [The Wild Week in AI](https://www.getrevue.co/profile/wildml) | Weekly newsletter (AI, Deep Learning) |
 | [City AI](https://www.getrevue.co/profile/CityAI) | Monthly newsletter (AI) |
 
 # GPU servers hosting #
