@@ -8,9 +8,11 @@
 | [Search arXiv AI/ML/DL related papers](http://www.arxiv-sanity.com/) | Search on top of arXiv by Andrej Karpathy |
 | https://www.reddit.com/r/MachineLearning/ | AI/ML subforum |
 | http://www.datatau.com/ | AI/ML dedicated forum |
+| [Measuring the Progress of AI Research](https://www.eff.org/ai/metrics) | Comprehensive dataset of AI topics and advances within them | 
 | [AI/ML cheat sheet](https://github.com/kailashahirwar/cheatsheets-ai) | Constantly updated |
 | [Kaggle past solutions](http://ndres.me/kaggle-past-solutions/) | Good collection, but still missing many entries |
 | [SDS podcast](https://www.superdatascience.com/podcast/) | Data science focused podcast |
+| [Linear Digressions podcast])(http://lineardigressions.com/) | Weekly ML/data science podcast | 
 | [Deep Learning Weekly](http://www.deeplearningweekly.com/) | Weekly newsletter (Deep Learning) |
 | [The Wild Week in AI](https://www.getrevue.co/profile/wildml) | Weekly newsletter (AI, Deep Learning) |
 | [City AI](https://www.getrevue.co/profile/CityAI) | Monthly newsletter (AI) |
@@ -70,3 +72,11 @@ And only then start reading books, if you need more content - good summary of Li
 | Seaborn | https://seaborn.pydata.org/ | Statistical data visualization |
 | Scikit-plot | https://github.com/reiinakano/scikit-plot | Add plotting to scikit-learn |
 | keras-vis | https://github.com/raghakot/keras-vis | Visualization of Keras DL layers |
+
+# Events / meetups #
+http://www.london.ai/
+
+# Self-driving cars #
+
+# Code
+[Stanford Code From Cars That Entered DARPA Grand Challenges](https://github.com/emmjaykay/stanford_self_driving_car_code)
