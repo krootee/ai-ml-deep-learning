@@ -96,11 +96,11 @@ And only then start reading books, if you need more content - good summary of Li
 | keras-vis | https://github.com/raghakot/keras-vis | Visualization of Keras DL layers |
 
 # TensorFlow #
-[TensorBoard: Visualizing Learning](https://www.tensorflow.org/get_started/summaries_and_tensorboard)
-[TensorFlow Mobile](https://www.tensorflow.org/mobile/)
-[MobileNets: Open-Source Models for Efficient On-Device Vision](https://research.googleblog.com/2017/06/mobilenets-open-source-models-for.html)
-[TensorFlow: How to optimise your input pipeline with queues and multi-threading](https://blog.metaflow.fr/tensorflow-how-to-optimise-your-input-pipeline-with-queues-and-multi-threading-e7c3874157e0)
-[Building a Real-Time Object Recognition App with TensorFlow Object Detection API and OpenCV](https://medium.com/towards-data-science/building-a-real-time-object-recognition-app-with-tensorflow-and-opencv-b7a2b4ebdc32)
+[TensorBoard: Visualizing Learning](https://www.tensorflow.org/get_started/summaries_and_tensorboard) <br>
+[TensorFlow Mobile](https://www.tensorflow.org/mobile/) <br>
+[MobileNets: Open-Source Models for Efficient On-Device Vision](https://research.googleblog.com/2017/06/mobilenets-open-source-models-for.html) <br>
+[TensorFlow: How to optimise your input pipeline with queues and multi-threading](https://blog.metaflow.fr/tensorflow-how-to-optimise-your-input-pipeline-with-queues-and-multi-threading-e7c3874157e0) <br>
+[Building a Real-Time Object Recognition App with TensorFlow Object Detection API and OpenCV](https://medium.com/towards-data-science/building-a-real-time-object-recognition-app-with-tensorflow-and-opencv-b7a2b4ebdc32) <br>
 
 # Events / meetups #
 http://www.london.ai/
