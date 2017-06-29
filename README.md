@@ -78,6 +78,8 @@ And only then start reading books, if you need more content - good summary of Li
 | UC Berkeley CS 294: Deep Reinforcement Learning, Fall 2017 | [Official page](http://rll.berkeley.edu/deeprlcourse/) <br> [Youtube playlist](https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX) | - | |
 | MIT 6.S094: Deep Learning for Self-Driving Cars | [Official page](http://selfdrivingcars.mit.edu/) <br> [Youtube playlist](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf) | - | |
 | OpenDataScience Machine Learning course | [Official page on Github](https://github.com/Yorko/mlcourse_open) | - | In Russian |
+| Введение в обработку естественного языка | [Official page](https://stepik.org/course/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D1%83-%D0%B5%D1%81%D1%82%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0-1233) | - | In Russian |
+| Introduction to Natural Language Processing | [Official page](https://www.coursera.org/learn/natural-language-processing) | - | |
 
 # Python libraries and tools #
 | Name | Link | Comment |
@@ -105,6 +107,9 @@ http://www.london.ai/
 
 # Self-driving cars #
 [Stanford Code From Cars That Entered DARPA Grand Challenges](https://github.com/emmjaykay/stanford_self_driving_car_code)
+
+# Reinforcement Learning #
+[Minimal and Clean Reinforcement Learning Examples](https://github.com/rlcode/reinforcement-learning)
 
 # Papers #
 | Name | Code | Comments |
