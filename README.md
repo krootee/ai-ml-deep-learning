@@ -57,7 +57,7 @@
 # Math preparation #
 
 Start with watching awesome [MIT Linear Algebra course](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) via [Youtube playlist](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8) - first 10 or so lectures would be enough for some time. <br>
-And only then start reading books, if you need more content - good summary of Linear Algebra from Deep Learning book [Chapter 2](http://www.deeplearningbook.org/contents/linear_algebra.html)
+And only then start reading books, if you need more content - good summary of Linear Algebra from Deep Learning book [Chapter 2](http://www.deeplearningbook.org/contents/linear_algebra.html) <br>
 [Common Probability Distributions: The Data Scientist’s Crib Sheet](https://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/)
 
 # Online courses #
