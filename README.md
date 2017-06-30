@@ -29,17 +29,17 @@
 | [Artificial Intelligence and Deep Learning Weekly](http://aidl.io) | Weekly newsletter (AI, Deep Learning) |
 | [City AI](https://www.getrevue.co/profile/CityAI) | Monthly newsletter (AI) |
 | [Linear Digressions podcast](http://lineardigressions.com/) | Weekly ML/data science podcast |
-| [Partially Derivative](http://partiallyderivative.com/) | Weekly news |
-| [This Week in Machine Learning & AI](https://twimlai.com/) | |
-| [Data Sceptic](https://dataskeptic.com/) | |
+| [Partially Derivative podcast](http://partiallyderivative.com/) | Weekly news |
+| [This Week in Machine Learning & AI podcast](https://twimlai.com/) | |
+| [Data Sceptic podcast](https://dataskeptic.com/) | |
 | [SDS podcast](https://www.superdatascience.com/podcast/) | Data science focused podcast |
-| [Talking Machines](http://www.thetalkingmachines.com/) | |
+| [Talking Machines podcast](http://www.thetalkingmachines.com/) | |
 | [The AI podcast](https://soundcloud.com/theaipodcast) | |
-| [O'Reilly Data Show](https://www.oreilly.com/topics/oreilly-data-show-podcast) | | 
-| [O'Reilly Bots](https://www.oreilly.com/topics/oreilly-bots-podcast) | |
-| [Data Stories](http://datastori.es/) | |
-| [Learning Machines 101](http://www.learningmachines101.com/) | |
-| [Data Driven](http://datadriven.tv/) | |
+| [O'Reilly Data Show podcast](https://www.oreilly.com/topics/oreilly-data-show-podcast) | | 
+| [O'Reilly Bots podcast](https://www.oreilly.com/topics/oreilly-bots-podcast) | |
+| [Data Stories podcast](http://datastori.es/) | |
+| [Learning Machines 101 podcast](http://www.learningmachines101.com/) | |
+| [Data Driven podcast](http://datadriven.tv/) | |
 
 
 # GPU servers hosting #
