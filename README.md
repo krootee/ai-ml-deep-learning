@@ -142,6 +142,9 @@ http://www.london.ai/
 [Deep Reinforcement Learning: Pong from Pixels](https://karpathy.github.io/2016/05/31/rl/) <br>
 [Minimal and Clean Reinforcement Learning Examples](https://github.com/rlcode/reinforcement-learning)
 
+# Autoencoders #
+[Автоэнкодеры в Keras](https://habrahabr.ru/post/331382/)
+
 # Papers #
 | Name | Code | Comments |
 | --- | --- | --- |
