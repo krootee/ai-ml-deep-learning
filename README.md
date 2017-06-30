@@ -135,7 +135,8 @@ And only then start reading books, if you need more content - good summary of Li
 http://www.london.ai/
 
 # Self-driving cars #
-[Stanford Code From Cars That Entered DARPA Grand Challenges](https://github.com/emmjaykay/stanford_self_driving_car_code)
+[Stanford Code From Cars That Entered DARPA Grand Challenges](https://github.com/emmjaykay/stanford_self_driving_car_code) <br>
+[Self Driving RC Car](https://zhengludwig.wordpress.com/projects/self-driving-rc-car/)
 
 # Reinforcement Learning #
 [Deep Reinforcement Learning: Pong from Pixels](https://karpathy.github.io/2016/05/31/rl/) <br>
