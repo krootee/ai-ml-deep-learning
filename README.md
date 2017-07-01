@@ -41,6 +41,16 @@
 | [Learning Machines 101 podcast](http://www.learningmachines101.com/) | |
 | [Data Driven podcast](http://datadriven.tv/) | |
 
+# Books #
+[Deep Learning (Adaptive Computation and Machine Learning series)](http://www.deeplearningbook.org/), [Github](https://github.com/HFTrader/DeepLearningBook), [Amazon](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/) and its translation [ГЛУБОКОЕ ОБУЧЕНИЕ](http://dmkpress.com/catalog/computer/data/978-5-97060-554-7/) <br>
+[Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning) <br>
+[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) <br>
+[Machine Learning A Probabilistic Perspective](https://mitpress.mit.edu/books/machine-learning-0) <br>
+[Artificial Inteligence](https://www.gitbook.com/book/leonardoaraujosantos/artificial-inteligence/details) <br>
+[Machine Learning Yearning by Andrew Ng](http://www.mlyearning.org/) <br>
+[Python Deep Learning](https://www.amazon.com/Python-Deep-Learning-Valentino-Zocca/dp/1786464454/), [Packtpub](https://www.packtpub.com/big-data-and-business-intelligence/python-deep-learning) <br>
+
+
 
 # GPU servers hosting #
 
@@ -58,11 +68,12 @@
 | [Theano](http://www.deeplearning.net/software/theano/) | Python | |
 | [Caffe](http://caffe.berkeleyvision.org/) | C++ | |
 | [CNTK](http://cntk.ai/) | C++ | The Microsoft Cognitive Toolkit |
+| [Sonnet](https://github.com/deepmind/sonnet) | Python | High-level library on top of TF by DeepMind |
 | [Nnabla](https://nnabla.org/) | C++ | Neural Network Libraries by Sony |
 | [Core ML](https://developer.apple.com/documentation/coreml) | ? | Apple OS only |
+| [ELL](https://github.com/Microsoft/ELL) | C++ | Microsoft Embedded Learning Library - Machine Learning on mini devices like Raspberry Pi |
 
 # Math preparation #
-
 Start with watching awesome [MIT Linear Algebra course](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) via [Youtube playlist](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8) - first 10 or so lectures would be enough for some time. <br>
 [Linear algebra in 4 pages](https://minireference.com/static/tutorials/linear_algebra_in_4_pages.pdf) <br>
 And only then start reading books, if you need more content - good summary of Linear Algebra from Deep Learning book [Chapter 2](http://www.deeplearningbook.org/contents/linear_algebra.html) <br>
@@ -70,7 +81,7 @@ And only then start reading books, if you need more content - good summary of Li
 [Math probability cheat sheet](http://www.wzchen.com/s/probability_cheatsheet.pdf) <br>
 [Statistics cheat sheet](http://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf) <br>
 [Calculus cheat sheet](http://tutorial.math.lamar.edu/getfile.aspx?file=B,41,N) <br>
-[Matrix Cookbook](http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/3274/pdf/imm3274.pdf)
+[Matrix Cookbook](http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/3274/pdf/imm3274.pdf) <br>
 
 # Online courses #
 
@@ -111,6 +122,7 @@ And only then start reading books, if you need more content - good summary of Li
 | Berkeley STAT212b: Course on Deep Learning for Spring 2016 | [Official page](https://github.com/joanbruna/stat212b) | - | Slides only |
 
 # Python libraries and tools #
+
 | Name | Link | Comment |
 | --- | --- | --- |
 | Jupyter notebook | https://jupyter.org/ | Use it :) |
@@ -123,32 +135,122 @@ And only then start reading books, if you need more content - good summary of Li
 | Seaborn | https://seaborn.pydata.org/ | Statistical data visualization |
 | Scikit-plot | https://github.com/reiinakano/scikit-plot | Add plotting to scikit-learn |
 | keras-vis | https://github.com/raghakot/keras-vis | Visualization of Keras DL layers |
+| NLTK | http://www.nltk.org/ | Natural Language Toolkit |
 
 # TensorFlow #
+[TensorFlow Playground](http://playground.tensorflow.org) <br>
 [TensorBoard: Visualizing Learning](https://www.tensorflow.org/get_started/summaries_and_tensorboard) <br>
 [TensorFlow Mobile](https://www.tensorflow.org/mobile/) <br>
 [MobileNets: Open-Source Models for Efficient On-Device Vision](https://research.googleblog.com/2017/06/mobilenets-open-source-models-for.html) <br>
 [TensorFlow: How to optimise your input pipeline with queues and multi-threading](https://blog.metaflow.fr/tensorflow-how-to-optimise-your-input-pipeline-with-queues-and-multi-threading-e7c3874157e0) <br>
+[Exponential decay for learning rate in TF](https://www.tensorflow.org/api_docs/python/tf/train/exponential_decay) <br>
+[Monitoring validation loss](https://www.tensorflow.org/api_docs/python/tf/train/SessionRunHook) and [stop hook](https://www.tensorflow.org/api_docs/python/tf/train/StopAtStepHook) and [NaN hook](https://www.tensorflow.org/api_docs/python/tf/train/NanTensorHook) <br>
 [Building a Real-Time Object Recognition App with TensorFlow Object Detection API and OpenCV](https://medium.com/towards-data-science/building-a-real-time-object-recognition-app-with-tensorflow-and-opencv-b7a2b4ebdc32) <br>
+
+# Datasets #
+[COCO-Stuff 10K dataset v1.1](https://github.com/nightrome/cocostuff) <br>
+[LiDAR Data for Washington DC is Available as an AWS Public Dataset](https://aws.amazon.com/blogs/publicsector/lidar-data-for-washington-dc-is-available-as-an-aws-public-dataset/) <br>
+[The 20BN-JESTER dataset is a large collection of densly-labeled video clips that show humans performing predefinded hand gestures](https://www.twentybn.com/datasets/jester) <br>
+[The 20BN-SOMETHING-SOMETHING dataset is a large collection of densly-labeled video clips that show humans performing predefined basic actions with every day objects](https://www.twentybn.com/datasets/something-something) <br>
 
 # Events / meetups #
 http://www.london.ai/
 
-# Self-driving cars #
-[Stanford Code From Cars That Entered DARPA Grand Challenges](https://github.com/emmjaykay/stanford_self_driving_car_code) <br>
-[Self Driving RC Car](https://zhengludwig.wordpress.com/projects/self-driving-rc-car/)
+# Neural network initialization and hyper-parameters #
+[(Xavier initialization) Understanding the difficulty of training deep feedforward neural networks](http://jmlr.org/proceedings/papers/v9/glorot10a/glorot10a.pdf) and [An Explanation of Xavier Initialization](http://andyljones.tumblr.com/post/110998971763/an-explanation-of-xavier-initialization)<br>
+[(Xavier for ReLU) Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](https://arxiv.org/abs/1502.01852) <br>
+[A Simple Way to Initialize Recurrent Networks of Rectified Linear Units](https://arxiv.org/abs/1504.00941) <br>
+[Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167) and [comments](https://gist.github.com/shagunsodhani/4441216a298df0fe6ab0) <br>
+[Understanding the backward pass through Batch Normalization Layer](https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html) <br>
+[Initialization of deep networks](http://deepdish.io/2015/02/24/network-initialization/) <br>
+[Practical recommendations for gradient-based training of deep architectures](https://arxiv.org/abs/1206.5533) <br>
+[Efficient BackProp by Yann LeCun](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf) <br>
+[Concrete Dropout](https://arxiv.org/abs/1705.07832) and [Github](https://github.com/yaringal/ConcreteDropout) <br>
+[Hyperparameter optimization for Neural Networks](http://neupy.com/2016/12/17/hyperparameter_optimization_for_neural_networks.html) <br>
 
-# Reinforcement Learning #
-[Deep Reinforcement Learning: Pong from Pixels](https://karpathy.github.io/2016/05/31/rl/) <br>
-[Minimal and Clean Reinforcement Learning Examples](https://github.com/rlcode/reinforcement-learning)
+
+# Network optimization algorithms #
+[An overview of gradient descent optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/index.html) <br>
+[Why Momentum Really Works](http://distill.pub/2017/momentum/) <br>
+
+# Neural Network visualization #
+[Picasso: A free open-source visualizer for Convolutional Neural Networks](https://medium.com/merantix/picasso-a-free-open-source-visualizer-for-cnns-d8ed3a35cfc5) and [Github](https://github.com/merantix/picasso) <br>
+
+# CNN (Convolution Neural Networks) #
+[Systematic evaluation of CNN advances on the ImageNet](https://arxiv.org/abs/1606.02228) <br>
+[CS231n CNN intro](https://cs231n.github.io/neural-networks-1/) <br>
+[Deep Learning #3: More on CNNs & Handling Overfitting](https://medium.com/towards-data-science/deep-learning-3-more-on-cnns-handling-overfitting-2bd5d99abe5d) <br>
+[Deconvolutional Networks](http://www.matthewzeiler.com/pubs/cvpr2010/cvpr2010.pdf) <br>
+[What are deconvolutional layers?](https://datascience.stackexchange.com/questions/6107/what-are-deconvolutional-layers) <br>
+[Deconvolution and Checkerboard Artifacts](http://distill.pub/2016/deconv-checkerboard/) <br>
+[Architecture of Convolutional Neural Networks (CNNs) demystified](https://www.analyticsvidhya.com/blog/2017/06/architecture-of-convolutional-neural-networks-simplified-demystified/) <br>
+
+# RNN (Recurrent Neural Networks) #
+[Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling](https://arxiv.org/abs/1412.3555) <br>
+[An Empirical Exploration of Recurrent Network Architectures](http://proceedings.mlr.press/v37/jozefowicz15.pdf) <br>
+[Visualizing and Understanding Recurrent Networks](https://arxiv.org/abs/1506.02078) <br>
+[Video - Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM)](https://www.youtube.com/watch?v=WCUNPb-5EYI) <br>
+
+# Image processing #
+[COCO-Stuff dataset](https://arxiv.org/abs/1612.03716) and [Github](https://github.com/nightrome/cocostuff) <br>
+[Show and Tell: A Neural Image Caption Generator](https://arxiv.org/abs/1411.4555) <br>
+[DRAW: A Recurrent Neural Network For Image Generation](https://arxiv.org/abs/1502.04623) <br>
+
+# seq2seq (Sequence to sequence) #
+[Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215) <br>
+[SEQUENCE-TO-SEQUENCE RNNS FOR TEXT SUMMARIZATION](https://pdfs.semanticscholar.org/3fbc/45152f20403266b02c4c2adab26fb367522d.pdf) <br>
+
+# Sentiment analysis #
+[Unsupervised Sentiment Neuron](https://blog.openai.com/unsupervised-sentiment-neuron/) <br>
+
+# NMT (Neural Machine Translation) #
+[Massive Exploration of Neural Machine Translation Architectures](https://arxiv.org/abs/1506.02078) <br>
+
+# NLP #
+[Multi-Scale Context Aggregation by Dilated Convolutions](https://arxiv.org/abs/1511.07122) <br>
+[A list of all papers on Semantic Segmentation and the datasets they use](https://github.com/nightrome/really-awesome-semantic-segmentation) <br>
+[The Definitive Guide to Natural Language Processing](https://monkeylearn.com/blog/the-definitive-guide-to-natural-language-processing/) <br>
+
+# Word embeddings #
+[How to Generate a Good Word Embedding?](https://arxiv.org/abs/1507.05523) <br>
+
+# Audio #
+[Neural Speech Recognizer: Acoustic-to-Word LSTM Model for Large Vocabulary Speech Recognition](https://arxiv.org/abs/1610.09975) <br>
+[Speech Recognition with Deep Recurrent Neural Networks](https://arxiv.org/abs/1303.5778) <br>
+[Neural Audio Synthesis of Musical Notes with WaveNet Autoencoders](https://arxiv.org/abs/1704.01279) [Github](https://github.com/tensorflow/magenta/tree/master/magenta/models/nsynth) and [Intro](https://magenta.tensorflow.org/nsynth) <br>
+
+# GANs (General Adversarial Networks) #
+[A list of GAN papers](https://github.com/nightrome/really-awesome-gan) <br>
+[Deep Learning Research Review Week 1: Generative Adversarial Nets](https://opendatascience.com/blog/deep-learning-research-review-week-1-generative-adversarial-nets/) <br>
 
 # Autoencoders #
-[Автоэнкодеры в Keras](https://habrahabr.ru/post/331382/)
+[Автоэнкодеры в Keras](https://habrahabr.ru/post/331382/) <br>
 
 # Papers #
 | Name | Code | Comments |
 | --- | --- | --- |
-| [Variational Graph Auto-Encoders](https://arxiv.org/abs/1611.07308) | [Github](https://github.com/tkipf/gae) | |
+| [Variational Graph Auto-Encoders](https://arxiv.org/abs/1611.07308) | https://github.com/tkipf/gae | |
+| [A Long Short-Term Memory Model for Answer Sentence Selection in Question Answering](http://www.aclweb.org/anthology/P15-2116) | |
+| [Learning to act by predicting the future](https://openreview.net/forum?id=rJLS7qKel) | https://blog.acolyer.org/2017/05/12/learning-to-act-by-predicting-the-future/ | |
+
+
+# Self-driving cars #
+[Stanford Code From Cars That Entered DARPA Grand Challenges](https://github.com/emmjaykay/stanford_self_driving_car_code) <br>
+[Self Driving RC Car](https://zhengludwig.wordpress.com/projects/self-driving-rc-car/) <br>
+[Vehicle Detection and Tracking](https://medium.com/towards-data-science/vehicle-detection-and-tracking-44b851d70508) <br>
+
+# Reinforcement Learning #
+[Deep Reinforcement Learning: Pong from Pixels](https://karpathy.github.io/2016/05/31/rl/) <br>
+[Minimal and Clean Reinforcement Learning Examples](https://github.com/rlcode/reinforcement-learning) <br>
 
 # Robotics #
-[Faster Physics in Python from OpenAI](https://blog.openai.com/faster-robot-simulation-in-python/)
+[Faster Physics in Python from OpenAI](https://blog.openai.com/faster-robot-simulation-in-python/) <br>
+[Robots that Learn](https://blog.openai.com/robots-that-learn/) <br>
+[Releasing the Dexterity Network (Dex-Net) 2.0 Dataset for Deep Grasping](http://bair.berkeley.edu/blog/2017/06/27/dexnet-2.0/) <br>
+[Drone Uses AI and 11,500 Crashes to Learn How to Fly](http://spectrum.ieee.org/automaton/robotics/drones/drone-uses-ai-and-11500-crashes-to-learn-how-to-fly) <br>
+[AIY Projects: Do-it-yourself AI for Makers](https://aiyprojects.withgoogle.com/voice/) and [Intro](https://developers.googleblog.com/2017/05/aiy-projects-voice-kit.html) <br>
+
+# Misc #
+[All the slides (and more) from the 2017 IA Summit](https://medium.com/@IAsummit/all-the-slides-and-more-from-the-2017-ia-summit-30b37f95e74e) <br>
+https://medium.com/intuitionmachine/navigating-the-unsupervised-learning-landscape-951bd5842df9 <br>
+https://blog.twitter.com/engineering/en_us/topics/insights/2017/using-deep-learning-at-scale-in-twitters-timelines.html <br>
