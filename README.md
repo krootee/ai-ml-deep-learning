@@ -49,7 +49,7 @@
 [Artificial Inteligence](https://www.gitbook.com/book/leonardoaraujosantos/artificial-inteligence/details) <br>
 [Machine Learning Yearning by Andrew Ng](http://www.mlyearning.org/) <br>
 [Python Deep Learning](https://www.amazon.com/Python-Deep-Learning-Valentino-Zocca/dp/1786464454/), [Packtpub](https://www.packtpub.com/big-data-and-business-intelligence/python-deep-learning) <br>
-
+[Information Theory, Inference and Learning Algorithms](http://www.inference.org.uk/itila/), [Amazon](https://www.amazon.com/Information-Theory-Inference-Learning-Algorithms/dp/0521642981/) <br>
 
 
 # GPU servers hosting #
@@ -210,6 +210,8 @@ http://www.london.ai/
 [Multi-Scale Context Aggregation by Dilated Convolutions](https://arxiv.org/abs/1511.07122) <br>
 [A list of all papers on Semantic Segmentation and the datasets they use](https://github.com/nightrome/really-awesome-semantic-segmentation) <br>
 [The Definitive Guide to Natural Language Processing](https://monkeylearn.com/blog/the-definitive-guide-to-natural-language-processing/) <br>
+[Stanford Named Entity Recognizer (NER)](https://nlp.stanford.edu/software/CRF-NER.shtml) <br>
+[Text summarization with TensorFlow](https://research.googleblog.com/2016/08/text-summarization-with-tensorflow.html) <br>
 
 # Word embeddings #
 [How to Generate a Good Word Embedding?](https://arxiv.org/abs/1507.05523) <br>
@@ -217,11 +219,13 @@ http://www.london.ai/
 # Audio #
 [Neural Speech Recognizer: Acoustic-to-Word LSTM Model for Large Vocabulary Speech Recognition](https://arxiv.org/abs/1610.09975) <br>
 [Speech Recognition with Deep Recurrent Neural Networks](https://arxiv.org/abs/1303.5778) <br>
+[WaveNet: A Generative Model for Raw Audio](https://deepmind.com/blog/wavenet-generative-model-raw-audio/), [Paper](https://arxiv.org/abs/1609.03499) <br>
 [Neural Audio Synthesis of Musical Notes with WaveNet Autoencoders](https://arxiv.org/abs/1704.01279) [Github](https://github.com/tensorflow/magenta/tree/master/magenta/models/nsynth) and [Intro](https://magenta.tensorflow.org/nsynth) <br>
 
 # GANs (General Adversarial Networks) #
 [A list of GAN papers](https://github.com/nightrome/really-awesome-gan) <br>
 [Deep Learning Research Review Week 1: Generative Adversarial Nets](https://opendatascience.com/blog/deep-learning-research-review-week-1-generative-adversarial-nets/) <br>
+[CAN: Creative Adversarial Networks, Generating "Art" by Learning About Styles and Deviating from Style Norms](https://arxiv.org/abs/1706.07068) <br>
 
 # Autoencoders #
 [Автоэнкодеры в Keras](https://habrahabr.ru/post/331382/) <br>
