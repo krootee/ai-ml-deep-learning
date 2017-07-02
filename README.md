@@ -184,12 +184,14 @@ http://www.london.ai/
 [What are deconvolutional layers?](https://datascience.stackexchange.com/questions/6107/what-are-deconvolutional-layers) <br>
 [Deconvolution and Checkerboard Artifacts](http://distill.pub/2016/deconv-checkerboard/) <br>
 [Architecture of Convolutional Neural Networks (CNNs) demystified](https://www.analyticsvidhya.com/blog/2017/06/architecture-of-convolutional-neural-networks-simplified-demystified/) <br>
+[Convolutional Methods for Text](https://medium.com/@TalPerry/convolutional-methods-for-text-d5260fd5675f)
 
 # RNN (Recurrent Neural Networks) #
 [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling](https://arxiv.org/abs/1412.3555) <br>
 [An Empirical Exploration of Recurrent Network Architectures](http://proceedings.mlr.press/v37/jozefowicz15.pdf) <br>
 [Visualizing and Understanding Recurrent Networks](https://arxiv.org/abs/1506.02078) <br>
 [Video - Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM)](https://www.youtube.com/watch?v=WCUNPb-5EYI) <br>
+[Recurrent Additive Networks](http://www.kentonl.com/pub/llz.2017.pdf) <br>
 
 # Image processing #
 [COCO-Stuff dataset](https://arxiv.org/abs/1612.03716) and [Github](https://github.com/nightrome/cocostuff) <br>
@@ -197,24 +199,44 @@ http://www.london.ai/
 [DRAW: A Recurrent Neural Network For Image Generation](https://arxiv.org/abs/1502.04623) <br>
 
 # seq2seq (Sequence to sequence) #
+[Video Sequence to Sequence Deep Learning (Quoc Le, Google)](https://www.youtube.com/watch?v=G5RY_SUJih4) <br>
+[TensorFlow Sequence-to-Sequence Models](https://www.tensorflow.org/tutorials/seq2seq) <br>
 [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215) <br>
+[Introducing tf-seq2seq: An Open Source Sequence-to-Sequence Framework in TensorFlow](https://research.googleblog.com/2017/04/introducing-tf-seq2seq-open-source.html?m=1) <br>
+[Dynamic seq2seq in TensorFlow, step by step](https://github.com/ematvey/tensorflow-seq2seq-tutorials) <br>
+[A neural chatbot using sequence to sequence model with attentional decoder](https://github.com/chiphuyen/tf-stanford-tutorials/tree/master/assignments/chatbot)
+[Deep Learning for Chatbots, Part 1 – Introduction](http://www.wildml.com/2016/04/deep-learning-for-chatbots-part-1-introduction/) <br>
 [SEQUENCE-TO-SEQUENCE RNNS FOR TEXT SUMMARIZATION](https://pdfs.semanticscholar.org/3fbc/45152f20403266b02c4c2adab26fb367522d.pdf) <br>
+
+# Word embeddings #
+[Deep Learning, NLP, and Representations](https://colah.github.io/posts/2014-07-NLP-RNNs-Representations/) <br>
+[Understanding vector representations](https://www.samtalksml.net/from-linear-regression-to-vector-representations/) <br>
+[fairseq Facebook AI Research Sequence-to-Sequence Toolkit](https://github.com/facebookresearch/fairseq) <br>
+[GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/projects/glove/) <br>
+[Swivel: Improving Embeddings by Noticing What's Missing](https://arxiv.org/abs/1602.02215) <br>
+[Swivel in Tensorflow](https://github.com/tensorflow/models/tree/master/swivel) <br>
+[How to Generate a Good Word Embedding?](https://arxiv.org/abs/1507.05523) <br>
+[Enriching Word Vectors with Subword Information](https://arxiv.org/abs/1607.04606) <br>
+[Pre-trained word vectors for 294 languages (fastText) from Facebook](https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md) <br>
+[Aligning vector representations](https://www.samtalksml.net/aligning-vector-representations/) <br>
+[Aligning the fastText vectors of 78 languages](https://github.com/Babylonpartners/fastText_multilingual) <br>
+[Offline bilingual word vectors, orthogonal transformations and the inverted softmax](https://arxiv.org/abs/1702.03859) <br>
+[ParlAI: A new software platform for dialog research](https://code.facebook.com/posts/266433647155520/parlai-a-new-software-platform-for-dialog-research/) <br>
 
 # Sentiment analysis #
 [Unsupervised Sentiment Neuron](https://blog.openai.com/unsupervised-sentiment-neuron/) <br>
 
 # NMT (Neural Machine Translation) #
 [Massive Exploration of Neural Machine Translation Architectures](https://arxiv.org/abs/1506.02078) <br>
+[Neural Machine Translation in Linear Time](https://arxiv.org/abs/1610.10099)
 
 # NLP #
 [Multi-Scale Context Aggregation by Dilated Convolutions](https://arxiv.org/abs/1511.07122) <br>
 [A list of all papers on Semantic Segmentation and the datasets they use](https://github.com/nightrome/really-awesome-semantic-segmentation) <br>
 [The Definitive Guide to Natural Language Processing](https://monkeylearn.com/blog/the-definitive-guide-to-natural-language-processing/) <br>
 [Stanford Named Entity Recognizer (NER)](https://nlp.stanford.edu/software/CRF-NER.shtml) <br>
+[OpenNMT An open-source neural machine translation system](http://opennmt.net/) <br>
 [Text summarization with TensorFlow](https://research.googleblog.com/2016/08/text-summarization-with-tensorflow.html) <br>
-
-# Word embeddings #
-[How to Generate a Good Word Embedding?](https://arxiv.org/abs/1507.05523) <br>
 
 # Audio #
 [Neural Speech Recognizer: Acoustic-to-Word LSTM Model for Large Vocabulary Speech Recognition](https://arxiv.org/abs/1610.09975) <br>
@@ -229,6 +251,13 @@ http://www.london.ai/
 
 # Autoencoders #
 [Автоэнкодеры в Keras](https://habrahabr.ru/post/331382/) <br>
+
+# One-shot learning #
+[One-shot Learning with Memory-Augmented Neural Networks](https://arxiv.org/abs/1605.06065) + [Explanation](https://rylanschaeffer.github.io/content/research/one_shot_learning_with_memory_augmented_nn/main.html)
+[Video Active One-shot Learning](https://www.youtube.com/watch?v=CzQSQ_0Z-QU) <br>
+[Differential neural computer from DeepMind and more advances in backward propagation](https://futuristech.info/posts/differential-neural-computer-from-deepmind-and-more-advances-in-backward-propagation) <br>
+[Google’s DeepMind AI Now Capable of ‘Deep Neural Reasoning’](https://thenewstack.io/googles-deepmind-ai-now-capable-deep-neural-reasoning/) <br>
+[This is the code for "How to Learn from Little Data - Intro to Deep Learning #17' by Siraj Raval on YouTube](https://github.com/llSourcell/How-to-Learn-from-Little-Data) <br>
 
 # Papers #
 | Name | Code | Comments |
