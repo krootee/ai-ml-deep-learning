@@ -83,6 +83,7 @@ And only then start reading books, if you need more content - good summary of Li
 [Statistics cheat sheet](http://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf) <br>
 [Calculus cheat sheet](http://tutorial.math.lamar.edu/getfile.aspx?file=B,41,N) <br>
 [Matrix Cookbook](http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/3274/pdf/imm3274.pdf) <br>
+[The Mathematics of Machine Learning](http://datascience.ibm.com/blog/the-mathematics-of-machine-learning/) <br>
 
 # Online courses #
 
@@ -142,6 +143,7 @@ And only then start reading books, if you need more content - good summary of Li
 # TensorFlow & Co #
 [TensorFlow Playground](http://playground.tensorflow.org) <br>
 [TensorBoard: Visualizing Learning](https://www.tensorflow.org/get_started/summaries_and_tensorboard) <br>
+[Hands-on TensorBoard (TensorFlow Dev Summit 2017)](https://www.youtube.com/watch?v=eBbEDRsCmv4&feature=youtu.be) <br>
 [TensorFlow Mobile](https://www.tensorflow.org/mobile/) <br>
 [MobileNets: Open-Source Models for Efficient On-Device Vision](https://research.googleblog.com/2017/06/mobilenets-open-source-models-for.html) <br>
 [TensorFlow: How to optimise your input pipeline with queues and multi-threading](https://blog.metaflow.fr/tensorflow-how-to-optimise-your-input-pipeline-with-queues-and-multi-threading-e7c3874157e0) <br>
@@ -150,6 +152,7 @@ And only then start reading books, if you need more content - good summary of Li
 [Building a Real-Time Object Recognition App with TensorFlow Object Detection API and OpenCV](https://medium.com/towards-data-science/building-a-real-time-object-recognition-app-with-tensorflow-and-opencv-b7a2b4ebdc32) <br>
 [Keras as a simplified interface to TensorFlow: tutorial](https://blog.keras.io/keras-as-a-simplified-interface-to-tensorflow-tutorial.html) <br>
 [Introduction to Deep Neural Networks with Keras and Tensorflow](https://github.com/leriomaggio/deep-learning-keras-tensorflow) <br>
+[VGG19 and VGG16 on Tensorflow](https://github.com/machrisaa/tensorflow-vgg) <br>
 
 # Datasets #
 [COCO-Stuff 10K dataset v1.1](https://github.com/nightrome/cocostuff) <br>
@@ -161,6 +164,7 @@ And only then start reading books, if you need more content - good summary of Li
 http://www.london.ai/
 
 # Neural networks #
+[Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b) <br>
 [Learning to Reason with Neural Module Networks](http://bair.berkeley.edu/blog/2017/06/20/learning-to-reason-with-neural-module-networks/) <br>
 [An Overview of Multi-Task Learning in Deep Neural Networks](http://sebastianruder.com/multi-task/) and [Paper](https://arxiv.org/abs/1706.05098) <br>
 [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size](https://arxiv.org/abs/1602.07360) <br>
@@ -190,12 +194,16 @@ http://www.london.ai/
 # Neural Network visualization #
 [Picasso: A free open-source visualizer for Convolutional Neural Networks](https://medium.com/merantix/picasso-a-free-open-source-visualizer-for-cnns-d8ed3a35cfc5) and [Github](https://github.com/merantix/picasso) <br>
 [How to Visualize Your Recurrent Neural Network with Attention in Keras](https://medium.com/datalogue/attention-in-keras-1892773a4f22) <br>
+[Visualizing MNIST: An Exploration of Dimensionality Reduction](https://colah.github.io/posts/2014-10-Visualizing-MNIST/) <br>
+[How to Use t-SNE Effectively](http://distill.pub/2016/misread-tsne/) <br>
 [Understanding Deep Image Representations by Inverting Them](https://arxiv.org/abs/1412.0035) <br>
 
 # CNN (Convolution Neural Networks) #
 [Systematic evaluation of CNN advances on the ImageNet](https://arxiv.org/abs/1606.02228) <br>
 [CS231n CNN intro](https://cs231n.github.io/neural-networks-1/) <br>
 [Deep Learning #3: More on CNNs & Handling Overfitting](https://medium.com/towards-data-science/deep-learning-3-more-on-cnns-handling-overfitting-2bd5d99abe5d) <br>
+[Transfer Learning from CS231n](https://cs231n.github.io/transfer-learning/) <br>
+[What is Transfer Learning? by Sebastian Ruder](http://sebastianruder.com/transfer-learning/index.html) <br>
 [Deconvolutional Networks](http://www.matthewzeiler.com/pubs/cvpr2010/cvpr2010.pdf) <br>
 [What are deconvolutional layers?](https://datascience.stackexchange.com/questions/6107/what-are-deconvolutional-layers) <br>
 [Deconvolution and Checkerboard Artifacts](http://distill.pub/2016/deconv-checkerboard/) <br>
@@ -217,11 +225,15 @@ http://www.london.ai/
 [COCO-Stuff dataset](https://arxiv.org/abs/1612.03716) and [Github](https://github.com/nightrome/cocostuff) <br>
 [Show and Tell: A Neural Image Caption Generator](https://arxiv.org/abs/1411.4555) <br>
 [DRAW: A Recurrent Neural Network For Image Generation](https://arxiv.org/abs/1502.04623) <br>
+[Colorful Image Colorization](https://richzhang.github.io/colorization/) <br>
 
 # Image style transfer #
 [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) <br>
 [Convolutional neural networks for artistic style transfer](https://harishnarayanan.org/writing/artistic-style-transfer/) <br>
 [Picking an optimizer for Style Transfer](https://blog.slavv.com/picking-an-optimizer-for-style-transfer-86e7b8cba84b) <br>
+[Intro to Style transfer](https://ml4a.github.io/ml4a/style_transfer/) <br>
+[Experiments with style transfer](http://genekogan.com/works/style-transfer/) <br>
+[How do these "neural network style transfer" tools work?](https://jvns.ca/blog/2017/02/12/neural-style/) <br>
 Github repositories with code for style transfer: <br>
 * https://github.com/slavivanov/Style-Tranfer <br>
 * https://github.com/hnarayanan/stylist <br>
@@ -229,6 +241,9 @@ Github repositories with code for style transfer: <br>
 * https://github.com/fchollet/keras/blob/master/examples/neural_style_transfer.py <br>
 * https://github.com/erilyth/DeepLearning-Challenges/tree/master/Art_Generation <br>
 * https://github.com/jcjohnson/neural-style <br>
+[Code for "How to Generate Art - Intro to Deep Learning #8' by Siraj Raval on YouTube](https://github.com/llSourcell/How-to-Generate-Art-Demo) <br>
+[A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) <br>
+[Visual Attribute Transfer through Deep Image Analogy](https://arxiv.org/abs/1705.01088) <br>
 [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/abs/1603.08155) <br>
 [Controlling Perceptual Factors in Neural Style Transfer](https://arxiv.org/abs/1611.07865) <br>
 [cGAN-based Manga Colorization Using a Single Training Image](https://arxiv.org/abs/1706.06918) <br>
@@ -251,12 +266,28 @@ Github repositories with code for style transfer: <br>
 [SEQUENCE-TO-SEQUENCE RNNS FOR TEXT SUMMARIZATION](https://pdfs.semanticscholar.org/3fbc/45152f20403266b02c4c2adab26fb367522d.pdf) <br>
 
 # Word embeddings #
+[Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781) <br>
+[Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/abs/1310.4546) <br>
+[Original code for word2vec paper with comments](https://github.com/chrisjmccormick/word2vec_commented) <br>
+[word2vec Explained: deriving Mikolov et al.'s negative-sampling word-embedding method](https://arxiv.org/abs/1402.3722) <br>
 [Deep Learning, NLP, and Representations](https://colah.github.io/posts/2014-07-NLP-RNNs-Representations/) <br>
 [Understanding vector representations](https://www.samtalksml.net/from-linear-regression-to-vector-representations/) <br>
+[Demystifying Word2Vec](http://www.deeplearningweekly.com/blog/demystifying-word2vec) <br>
+[TensorFlow Vector Representations of Words](https://www.tensorflow.org/tutorials/word2vec) <br>
+[Word2Vec Tutorial - The Skip-Gram Model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/) and [Pdf](http://mccormickml.com/assets/word2vec/Alex_Minnaar_Word2Vec_Tutorial_Part_I_The_Skip-Gram_Model.pdf)<br>
+[Word2Vec Tutorial Part 2 - Negative Sampling](http://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/) and [Pdf](http://mccormickml.com/assets/word2vec/Alex_Minnaar_Word2Vec_Tutorial_Part_II_The_Continuous_Bag-of-Words_Model.pdf)<br>
+[Word2Vec Resources](http://mccormickml.com/2016/04/27/word2vec-resources/) <br>
+[Word2Vec (Part 1): NLP With Deep Learning with Tensorflow (Skip-gram)](http://www.thushv.com/natural_language_processing/word2vec-part-1-nlp-with-deep-learning-with-tensorflow-skip-gram/) <br>
+[Word2Vec (Part 2): NLP With Deep Learning with Tensorflow (CBOW)](http://www.thushv.com/natural_language_processing/word2vec-part-2-nlp-with-deep-learning-with-tensorflow-cbow/) <br>
+[Word2Vec test dataset](http://mattmahoney.net/dc/text8.zip) <br>
+[Kaggle Bag of Words Meets Bags of Popcorn](https://www.kaggle.com/c/word2vec-nlp-tutorial) <br>
 [fairseq Facebook AI Research Sequence-to-Sequence Toolkit](https://github.com/facebookresearch/fairseq) <br>
 [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/projects/glove/) <br>
+[GloVe: Global Vectors for Word Representation + Implementation](http://www.thushv.com/natural_language_processing/glove-global-vectors-for-word-representation/) <br>
+[Learning when to skim and when to read](https://einstein.ai/research/learning-when-to-skim-and-when-to-read) <br>
 [Swivel: Improving Embeddings by Noticing What's Missing](https://arxiv.org/abs/1602.02215) <br>
 [Swivel in Tensorflow](https://github.com/tensorflow/models/tree/master/swivel) <br>
+[Item2Vec: Neural Item Embedding for Collaborative Filtering](https://arxiv.org/abs/1603.04259) <br>
 [How to Generate a Good Word Embedding?](https://arxiv.org/abs/1507.05523) <br>
 [Enriching Word Vectors with Subword Information](https://arxiv.org/abs/1607.04606) <br>
 [Pre-trained word vectors for 294 languages (fastText) from Facebook](https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md) <br>
@@ -278,6 +309,11 @@ Github repositories with code for style transfer: <br>
 [Stanford Named Entity Recognizer (NER)](https://nlp.stanford.edu/software/CRF-NER.shtml) <br>
 [OpenNMT An open-source neural machine translation system](http://opennmt.net/) <br>
 [Text summarization with TensorFlow](https://research.googleblog.com/2016/08/text-summarization-with-tensorflow.html) <br>
+[Generating Sentences from a Continuous Space](https://arxiv.org/abs/1511.06349) <br>
+[Code for "How to Make a Text Summarizer - Intro to Deep Learning #10" by Siraj Raval on Youtube](https://github.com/llSourcell/How_to_make_a_text_summarizer) <br>
+[Recurrent Neural Networks with Word Embeddings](http://deeplearning.net/tutorial/rnnslu.html) <br>
+[Text Generation With LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/) <br>
+[Has Deep Learning been applied to automatic text summarization (successfully)?](https://www.quora.com/Has-Deep-Learning-been-applied-to-automatic-text-summarization-successfully) <br>
 
 # Audio #
 [Neural Speech Recognizer: Acoustic-to-Word LSTM Model for Large Vocabulary Speech Recognition](https://arxiv.org/abs/1610.09975) <br>
@@ -314,9 +350,39 @@ Github repositories with code for style transfer: <br>
 
 
 # Self-driving cars #
+[In-Depth on Udacity’s Self-Driving Car Curriculum](https://medium.com/self-driving-cars/term-1-in-depth-on-udacitys-self-driving-car-curriculum-ffcf46af0c08) <br>
+[Term 2: In-Depth on Udacity’s Self-Driving Car Curriculum](https://medium.com/udacity/term-2-in-depth-on-udacitys-self-driving-car-curriculum-775130aae502) <br>
+[A Review of Udacity’s Self-Driving Car Engineer Nanodegree — Second Term](https://medium.com/@mithi/a-review-of-udacitys-self-driving-car-engineer-nanodegree-second-term-56147f1d01ef) <br>
+[Udacity Self-Driving Car Project Q&As](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkz3HerxrHlu1Seq8ZA7-5P) <br>
+Udacity Self-Driving car preparation: [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab), [Derivatives of multivariable functions](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives) <br>
+[nVidia End-to-End Deep Learning for Self-Driving Cars](https://devblogs.nvidia.com/parallelforall/deep-learning-self-driving-cars/) <br>
+[An augmentation based deep neural network approach to learn human driving behavior](https://chatbotslife.com/using-augmentation-to-mimic-human-driving-496b569760a9) <br>
+[An Introduction to LIDAR: The Key Self-Driving Car Sensor](https://news.voyage.auto/an-introduction-to-lidar-the-key-self-driving-car-sensor-a7e405590cff) <br>
+[An Introduction to the CAN Bus: How to Programmatically Control a Car](https://news.voyage.auto/an-introduction-to-the-can-bus-how-to-programmatically-control-a-car-f1b18be4f377) <br>
+[Vehicle Detection and Tracking](https://medium.com/towards-data-science/vehicle-detection-and-tracking-44b851d70508) <br>
+[How do self driving cars drive? Part 1: Lane keeping assist](https://medium.com/@edersantana/how-do-self-driving-cars-drive-part-1-lane-keeping-assist-581f6ff50349) <br>
+Blogs of Udacity students with information: <br>
+* [priya.dwivedi](https://medium.com/@priya.dwivedi) <br>
+* [andrew.d.wilkie](https://medium.com/@andrew.d.wilkie) <br>
+* [vivek.yadav](https://medium.com/@vivek.yadav) <br>
+* [jeremyeshannon](https://medium.com/@jeremyeshannon) <br>
+* [arnaldogunzi](https://medium.com/@arnaldogunzi) <br>
+Github repos of Udacity students: <br> 
+* https://github.com/georgesung/road_lane_line_detection <br>
+* https://github.com/georgesung/traffic_sign_classification_german <br>
+* https://github.com/georgesung/behavioral_cloning <br>
+* https://github.com/georgesung/ssd_tensorflow_traffic_sign_detection <br>
+* https://github.com/dmitrykudinov/CarND-Behavioral-Cloning-P3 <br>
+* https://github.com/ndrplz/dilation-tensorflow <br>
+[Youtube lectures on Kalman Filter](https://www.youtube.com/playlist?list=PLX2gX-ftPVXU3oUFNATxGXY90AULiqnWT) <br>
+[Youtube lectures on Model predictive control](https://www.youtube.com/playlist?list=PLs7mcKy_nInFEpygo_VrqDFCsQVnGaoy-) <br>
+[Youtube Controlling Self Driving Cars](https://www.youtube.com/watch?v=4Y7zG48uHRo) <br>
+[Book The Science of Vehicle Dynamics: Handling, Braking, and Ride of Road and Race Cars](https://www.amazon.com/Science-Vehicle-Dynamics-Handling-Braking/dp/9401785325/) <br>
+[comma.ai Our Road to Self Driving Victory](https://medium.com/@comma_ai/our-road-to-self-driving-victory-603a9ed20204) <br>
 [Stanford Code From Cars That Entered DARPA Grand Challenges](https://github.com/emmjaykay/stanford_self_driving_car_code) <br>
 [Self Driving RC Car](https://zhengludwig.wordpress.com/projects/self-driving-rc-car/) <br>
-[Vehicle Detection and Tracking](https://medium.com/towards-data-science/vehicle-detection-and-tracking-44b851d70508) <br>
+[The Race to 2021: The State of Autonomous Vehicles and a "Who's Who" of Industry Drivers](https://www.slideshare.net/Altimeter/the-race-to-2021-the-state-of-autonomous-vehicles-and-a-whos-who-of-industry-drivers) <br>
+[Becoming a Self-Driving Car & Machine Learning Engineer](https://medium.com/udacity/becoming-a-self-driving-car-machine-learning-engineer-4f9433e49c19) <br>
 
 # Reinforcement Learning #
 [Deep Reinforcement Learning: Pong from Pixels](https://karpathy.github.io/2016/05/31/rl/) <br>
