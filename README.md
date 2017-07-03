@@ -357,6 +357,7 @@ Github repositories with code for style transfer: <br>
 # Self-driving cars #
 [In-Depth on Udacity’s Self-Driving Car Curriculum](https://medium.com/self-driving-cars/term-1-in-depth-on-udacitys-self-driving-car-curriculum-ffcf46af0c08) <br>
 [Term 2: In-Depth on Udacity’s Self-Driving Car Curriculum](https://medium.com/udacity/term-2-in-depth-on-udacitys-self-driving-car-curriculum-775130aae502) <br>
+[The Secrets of Term 3 Revealed!](https://medium.com/udacity/the-secrets-of-term-3-revealed-216e0cb11a42) <br>
 [A Review of Udacity’s Self-Driving Car Engineer Nanodegree — Second Term](https://medium.com/@mithi/a-review-of-udacitys-self-driving-car-engineer-nanodegree-second-term-56147f1d01ef) <br>
 [Udacity Self-Driving Car Project Q&As](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkz3HerxrHlu1Seq8ZA7-5P) <br>
 Udacity Self-Driving car preparation: [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab), [Derivatives of multivariable functions](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives) <br>
@@ -365,13 +366,16 @@ Udacity Self-Driving car preparation: [Essence of linear algebra](https://www.yo
 [An Introduction to LIDAR: The Key Self-Driving Car Sensor](https://news.voyage.auto/an-introduction-to-lidar-the-key-self-driving-car-sensor-a7e405590cff) <br>
 [An Introduction to the CAN Bus: How to Programmatically Control a Car](https://news.voyage.auto/an-introduction-to-the-can-bus-how-to-programmatically-control-a-car-f1b18be4f377) <br>
 [Vehicle Detection and Tracking](https://medium.com/towards-data-science/vehicle-detection-and-tracking-44b851d70508) <br>
+[Hacking my own car: Lessons learnt after a few months of setbacks.](https://medium.com/@autti/hacking-my-own-car-lessons-learn-after-a-few-months-of-setbacks-76b555d28d1b) <br>
 [How do self driving cars drive? Part 1: Lane keeping assist](https://medium.com/@edersantana/how-do-self-driving-cars-drive-part-1-lane-keeping-assist-581f6ff50349) <br>
+[3 Approaches to Vehicle Detection and Tracking](https://medium.com/self-driving-cars/3-approaches-to-vehicle-detection-and-tracking-413fe50f75fc) <br>
 Blogs of Udacity students with information: <br>
 * [priya.dwivedi](https://medium.com/@priya.dwivedi) <br>
 * [andrew.d.wilkie](https://medium.com/@andrew.d.wilkie) <br>
 * [vivek.yadav](https://medium.com/@vivek.yadav) <br>
 * [jeremyeshannon](https://medium.com/@jeremyeshannon) <br>
 * [arnaldogunzi](https://medium.com/@arnaldogunzi) <br>
+[Udacity Students Past, Present, and Future](https://medium.com/self-driving-cars/udacity-students-past-present-and-future-6f9beacb3206) <br>
 Github repos of Udacity students: <br> 
 * https://github.com/georgesung/road_lane_line_detection <br>
 * https://github.com/georgesung/traffic_sign_classification_german <br>
