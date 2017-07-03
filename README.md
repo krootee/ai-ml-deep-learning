@@ -50,7 +50,7 @@
 [Machine Learning Yearning by Andrew Ng](http://www.mlyearning.org/) <br>
 [Python Deep Learning](https://www.amazon.com/Python-Deep-Learning-Valentino-Zocca/dp/1786464454/), [Packtpub](https://www.packtpub.com/big-data-and-business-intelligence/python-deep-learning) <br>
 [Information Theory, Inference and Learning Algorithms](http://www.inference.org.uk/itila/), [Amazon](https://www.amazon.com/Information-Theory-Inference-Learning-Algorithms/dp/0521642981/) <br>
-
+[Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) <br>
 
 # GPU servers hosting #
 
@@ -307,10 +307,12 @@ Github repositories with code for style transfer: <br>
 # NMT (Neural Machine Translation) #
 [Massive Exploration of Neural Machine Translation Architectures](https://arxiv.org/abs/1506.02078) <br>
 [Neural Machine Translation in Linear Time](https://arxiv.org/abs/1610.10099)
+[Introduction to Neural Machine Translation with GPUs (part 1)](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus/) <br>
 
 # NLP #
 [Multi-Scale Context Aggregation by Dilated Convolutions](https://arxiv.org/abs/1511.07122) <br>
 [The Definitive Guide to Natural Language Processing](https://monkeylearn.com/blog/the-definitive-guide-to-natural-language-processing/) <br>
+[Ultimate Guide to Understand & Implement Natural Language Processing (with codes in Python)](https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/) <br>
 [Stanford Named Entity Recognizer (NER)](https://nlp.stanford.edu/software/CRF-NER.shtml) <br>
 [OpenNMT An open-source neural machine translation system](http://opennmt.net/) <br>
 [Text summarization with TensorFlow](https://research.googleblog.com/2016/08/text-summarization-with-tensorflow.html) <br>
@@ -389,9 +391,18 @@ Github repos of Udacity students: <br>
 [Book The Science of Vehicle Dynamics: Handling, Braking, and Ride of Road and Race Cars](https://www.amazon.com/Science-Vehicle-Dynamics-Handling-Braking/dp/9401785325/) <br>
 [comma.ai Our Road to Self Driving Victory](https://medium.com/@comma_ai/our-road-to-self-driving-victory-603a9ed20204) <br>
 [Stanford Code From Cars That Entered DARPA Grand Challenges](https://github.com/emmjaykay/stanford_self_driving_car_code) <br>
+[BERKELEY AUTONOMOUS RACE CAR](http://www.barc-project.com/) <br>
 [Self Driving RC Car](https://zhengludwig.wordpress.com/projects/self-driving-rc-car/) <br>
+[OpenCV Python Neural Network Autonomous RC Car](https://github.com/hamuchiwa/AutoRCCar) <br>
+[Build Your Own Android-Powered Self Driving R/C Car](http://makezine.com/projects/build-android-powered-autonomous-rc-car/) and [Github](https://github.com/platisd/AndroidCar) <br>
+[Arduino Powered Autonomous Vehicle](http://www.instructables.com/id/Arduino-Powered-Autonomous-Vehicle/) <br>
+[Autonomous Control of RC Car Using Arduino](http://www.instructables.com/id/Autonomous-Control-of-RC-Car-Using-Arduino/) <br>
+[40 Excellent Autonomous Mobile Robots on Wheels That You Can Build at Home](https://www.intorobotics.com/40-excellent-autonomous-mobile-robots-on-wheels-that-you-can-build-at-home/) <br>
+[Using reinforcement learning in Python to teach a virtual car to avoid obstacles](https://medium.com/@harvitronix/using-reinforcement-learning-in-python-to-teach-a-virtual-car-to-avoid-obstacles-6e782cc7d4c6), [Part 2](https://medium.com/@harvitronix/reinforcement-learning-in-python-to-teach-a-virtual-car-to-avoid-obstacles-part-2-93e614fcd238), [Part 3](https://medium.com/@harvitronix/reinforcement-learning-in-python-to-teach-an-rc-car-to-avoid-obstacles-part-3-a1d063ac962f), [Github](https://github.com/harvitronix/reinforcement-learning-car) <br>
 [The Race to 2021: The State of Autonomous Vehicles and a "Who's Who" of Industry Drivers](https://www.slideshare.net/Altimeter/the-race-to-2021-the-state-of-autonomous-vehicles-and-a-whos-who-of-industry-drivers) <br>
 [Becoming a Self-Driving Car & Machine Learning Engineer](https://medium.com/udacity/becoming-a-self-driving-car-machine-learning-engineer-4f9433e49c19) <br>
+[Quora How do I get a job working on autonomous or self-driving cars?](https://www.quora.com/How-do-I-get-a-job-working-on-autonomous-or-self-driving-cars) <br>
+[Quora How can one learn to be a self driving car engineer?](https://www.quora.com/How-can-one-learn-to-be-a-self-driving-car-engineer) <br>
 
 # Reinforcement Learning #
 [Deep Reinforcement Learning: Pong from Pixels](https://karpathy.github.io/2016/05/31/rl/) <br>
