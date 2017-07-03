@@ -360,6 +360,7 @@ Github repositories with code for style transfer: <br>
 [In-Depth on Udacity’s Self-Driving Car Curriculum](https://medium.com/self-driving-cars/term-1-in-depth-on-udacitys-self-driving-car-curriculum-ffcf46af0c08) <br>
 [Term 2: In-Depth on Udacity’s Self-Driving Car Curriculum](https://medium.com/udacity/term-2-in-depth-on-udacitys-self-driving-car-curriculum-775130aae502) <br>
 [The Secrets of Term 3 Revealed!](https://medium.com/udacity/the-secrets-of-term-3-revealed-216e0cb11a42) <br>
+[A Short Review of Udacity’s Self-Driving Car Engineer Nanodegree — First Term](https://medium.com/@mithi/a-short-review-of-udacitys-self-driving-car-engineer-nanodegree-term-1-e36f5b9a72) <br>
 [A Review of Udacity’s Self-Driving Car Engineer Nanodegree — Second Term](https://medium.com/@mithi/a-review-of-udacitys-self-driving-car-engineer-nanodegree-second-term-56147f1d01ef) <br>
 [Udacity Self-Driving Car Project Q&As](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkz3HerxrHlu1Seq8ZA7-5P) <br>
 Udacity Self-Driving car preparation: [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab), [Derivatives of multivariable functions](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives) <br>
@@ -372,6 +373,7 @@ Udacity Self-Driving car preparation: [Essence of linear algebra](https://www.yo
 [How do self driving cars drive? Part 1: Lane keeping assist](https://medium.com/@edersantana/how-do-self-driving-cars-drive-part-1-lane-keeping-assist-581f6ff50349) <br>
 [3 Approaches to Vehicle Detection and Tracking](https://medium.com/self-driving-cars/3-approaches-to-vehicle-detection-and-tracking-413fe50f75fc) <br>
 Blogs of Udacity students with information: <br>
+* [mithi](https://medium.com/@mithi) <br>
 * [priya.dwivedi](https://medium.com/@priya.dwivedi) <br>
 * [andrew.d.wilkie](https://medium.com/@andrew.d.wilkie) <br>
 * [vivek.yadav](https://medium.com/@vivek.yadav) <br>
@@ -388,6 +390,7 @@ Github repos of Udacity students: <br>
 [Youtube lectures on Kalman Filter](https://www.youtube.com/playlist?list=PLX2gX-ftPVXU3oUFNATxGXY90AULiqnWT) <br>
 [Youtube lectures on Model predictive control](https://www.youtube.com/playlist?list=PLs7mcKy_nInFEpygo_VrqDFCsQVnGaoy-) <br>
 [Youtube Controlling Self Driving Cars](https://www.youtube.com/watch?v=4Y7zG48uHRo) <br>
+[SELF RACING CARS](http://selfracingcars.com/)<br>
 [Book The Science of Vehicle Dynamics: Handling, Braking, and Ride of Road and Race Cars](https://www.amazon.com/Science-Vehicle-Dynamics-Handling-Braking/dp/9401785325/) <br>
 [comma.ai Our Road to Self Driving Victory](https://medium.com/@comma_ai/our-road-to-self-driving-victory-603a9ed20204) <br>
 [Stanford Code From Cars That Entered DARPA Grand Challenges](https://github.com/emmjaykay/stanford_self_driving_car_code) <br>
