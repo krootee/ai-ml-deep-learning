@@ -175,17 +175,21 @@ http://www.london.ai/
 
 # Neural network initialization and hyper-parameters #
 [(Xavier initialization) Understanding the difficulty of training deep feedforward neural networks](http://jmlr.org/proceedings/papers/v9/glorot10a/glorot10a.pdf) and [An Explanation of Xavier Initialization](http://andyljones.tumblr.com/post/110998971763/an-explanation-of-xavier-initialization)<br>
-[(Xavier for ReLU) Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](https://arxiv.org/abs/1502.01852) <br>
+[(LReLU / Xavier for ReLU) Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](https://arxiv.org/abs/1502.01852) <br>
 [A Simple Way to Initialize Recurrent Networks of Rectified Linear Units](https://arxiv.org/abs/1504.00941) <br>
 [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167) and [comments](https://gist.github.com/shagunsodhani/4441216a298df0fe6ab0) <br>
 [Understanding the backward pass through Batch Normalization Layer](https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html) <br>
 [Initialization of deep networks](http://deepdish.io/2015/02/24/network-initialization/) <br>
 [Practical recommendations for gradient-based training of deep architectures](https://arxiv.org/abs/1206.5533) <br>
 [Efficient BackProp by Yann LeCun](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf) <br>
+[Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning](https://arxiv.org/abs/1506.02142) <br>
 [Concrete Dropout](https://arxiv.org/abs/1705.07832) and [Github](https://github.com/yaringal/ConcreteDropout) <br>
 [Hyperparameter optimization for Neural Networks](http://neupy.com/2016/12/17/hyperparameter_optimization_for_neural_networks.html) <br>
 [The Marginal Value of Adaptive Gradient Methods in Machine Learning](https://arxiv.org/abs/1705.08292) <br>
 [YellowFin: An automatic tuner for momentum SGD](https://cs.stanford.edu/~zjian/project/YellowFin/) and [Github](https://github.com/JianGoForIt/YellowFin) <br>
+[Tips for Training Recurrent Neural Networks](http://danijar.com/tips-for-training-recurrent-neural-networks/) <br>
+[Must Know Tips/Tricks in Deep Neural Networks (by Xiu-Shen Wei)](http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html) <br>
+[The Black Magic of Deep Learning - Tips and Tricks for the practitioner](https://nmarkou.blogspot.de/2017/02/the-black-magic-of-deep-learning-tips.html) <br>
 
 # Network optimization algorithms #
 [An overview of gradient descent optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/index.html) <br>
@@ -241,6 +245,7 @@ Github repositories with code for style transfer: <br>
 * https://github.com/fchollet/keras/blob/master/examples/neural_style_transfer.py <br>
 * https://github.com/erilyth/DeepLearning-Challenges/tree/master/Art_Generation <br>
 * https://github.com/jcjohnson/neural-style <br>
+[Artistic style transfer for videos](https://arxiv.org/abs/1604.08610) and [Torch implementation](https://github.com/manuelruder/artistic-videos)<br>
 [Code for "How to Generate Art - Intro to Deep Learning #8' by Siraj Raval on YouTube](https://github.com/llSourcell/How-to-Generate-Art-Demo) <br>
 [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) <br>
 [Visual Attribute Transfer through Deep Image Analogy](https://arxiv.org/abs/1705.01088) <br>
@@ -387,6 +392,7 @@ Github repos of Udacity students: <br>
 # Reinforcement Learning #
 [Deep Reinforcement Learning: Pong from Pixels](https://karpathy.github.io/2016/05/31/rl/) <br>
 [Minimal and Clean Reinforcement Learning Examples](https://github.com/rlcode/reinforcement-learning) <br>
+[Noisy Networks for Exploration](https://arxiv.org/abs/1706.10295) <br>
 
 # Robotics #
 [Faster Physics in Python from OpenAI](https://blog.openai.com/faster-robot-simulation-in-python/) <br>
