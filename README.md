@@ -66,7 +66,7 @@
 | --- | --- | --- |
 | [TensorFlow](https://www.tensorflow.org/) | Python | Nobody ever got fired for choosing TensorFlow |
 | [Keras](https://keras.io/) | Python | High-level library on top of TensorFlow, CNTK, Theano |
-| [PyTorch](http://pytorch.org/) | Python | |
+| [PyTorch](http://pytorch.org/) | Python | [Intro in 10 minutes](https://hsaghir.github.io/data_science/pytorch_starter/) |
 | [Theano](http://www.deeplearning.net/software/theano/) | Python | |
 | [Caffe](http://caffe.berkeleyvision.org/) | C++ | |
 | [CNTK](http://cntk.ai/) | C++ | The Microsoft Cognitive Toolkit |
