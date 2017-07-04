@@ -19,7 +19,6 @@
 | [Kaggle past solutions](http://ndres.me/kaggle-past-solutions/) | Good collection, but still missing many entries |
 | [Baidu DL hardware benchmarks](https://github.com/baidu-research/DeepBench) | Benchmarking of different DL algorithms on different hardware |
 | [Benchmarks for popular CNN models](https://github.com/jcjohnson/cnn-benchmarks) | |
-| [
 
 # Newsletters and podcasts #
 
