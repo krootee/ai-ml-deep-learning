@@ -374,6 +374,7 @@ Github repositories with code for style transfer: <br>
 [Udacity Self-Driving Car Project Q&As](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkz3HerxrHlu1Seq8ZA7-5P) <br>
 Udacity Self-Driving car preparation: [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab), [Derivatives of multivariable functions](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives) <br>
 [nVidia End-to-End Deep Learning for Self-Driving Cars](https://devblogs.nvidia.com/parallelforall/deep-learning-self-driving-cars/) <br>
+[Multi-Scale Context Aggregation by Dilated Convolutions](https://arxiv.org/abs/1511.07122) and [TF Github](https://github.com/ndrplz/dilation-tensorflow) <br>
 [An augmentation based deep neural network approach to learn human driving behavior](https://chatbotslife.com/using-augmentation-to-mimic-human-driving-496b569760a9) <br>
 [An Introduction to LIDAR: The Key Self-Driving Car Sensor](https://news.voyage.auto/an-introduction-to-lidar-the-key-self-driving-car-sensor-a7e405590cff) <br>
 [An Introduction to the CAN Bus: How to Programmatically Control a Car](https://news.voyage.auto/an-introduction-to-the-can-bus-how-to-programmatically-control-a-car-f1b18be4f377) <br>
@@ -382,21 +383,7 @@ Udacity Self-Driving car preparation: [Essence of linear algebra](https://www.yo
 [How do self driving cars drive? Part 1: Lane keeping assist](https://medium.com/@edersantana/how-do-self-driving-cars-drive-part-1-lane-keeping-assist-581f6ff50349) <br>
 [3 Approaches to Vehicle Detection and Tracking](https://medium.com/self-driving-cars/3-approaches-to-vehicle-detection-and-tracking-413fe50f75fc) <br>
 [Visual Object Tracking using Adaptive Correlation Filters](http://www.cs.colostate.edu/~draper/papers/bolme_cvpr10.pdf) <br>
-Blogs of Udacity students with information: <br>
-* [mithi](https://medium.com/@mithi) <br>
-* [priya.dwivedi](https://medium.com/@priya.dwivedi) <br>
-* [andrew.d.wilkie](https://medium.com/@andrew.d.wilkie) <br>
-* [vivek.yadav](https://medium.com/@vivek.yadav) <br>
-* [jeremyeshannon](https://medium.com/@jeremyeshannon) <br>
-* [arnaldogunzi](https://medium.com/@arnaldogunzi) <br>
 [Udacity Students Past, Present, and Future](https://medium.com/self-driving-cars/udacity-students-past-present-and-future-6f9beacb3206) <br>
-Github repos of Udacity students: <br> 
-* https://github.com/georgesung/road_lane_line_detection <br>
-* https://github.com/georgesung/traffic_sign_classification_german <br>
-* https://github.com/georgesung/behavioral_cloning <br>
-* https://github.com/georgesung/ssd_tensorflow_traffic_sign_detection <br>
-* https://github.com/dmitrykudinov/CarND-Behavioral-Cloning-P3 <br>
-* https://github.com/ndrplz/dilation-tensorflow <br>
 [Youtube lectures on Kalman Filter](https://www.youtube.com/playlist?list=PLX2gX-ftPVXU3oUFNATxGXY90AULiqnWT) <br>
 [Youtube lectures on Model predictive control](https://www.youtube.com/playlist?list=PLs7mcKy_nInFEpygo_VrqDFCsQVnGaoy-) <br>
 [Youtube Controlling Self Driving Cars](https://www.youtube.com/watch?v=4Y7zG48uHRo) <br>
