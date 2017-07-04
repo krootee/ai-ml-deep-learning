@@ -18,6 +18,8 @@
 | [Machine Learning, Deep Learning and other tutorials](https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78) | Lots of information, but not organized very well |
 | [Kaggle past solutions](http://ndres.me/kaggle-past-solutions/) | Good collection, but still missing many entries |
 | [Baidu DL hardware benchmarks](https://github.com/baidu-research/DeepBench) | Benchmarking of different DL algorithms on different hardware |
+| [Benchmarks for popular CNN models](https://github.com/jcjohnson/cnn-benchmarks) | |
+| [
 
 # Newsletters and podcasts #
 
@@ -29,6 +31,7 @@
 | [Artificial Intelligence and Deep Learning Weekly](http://aidl.io) | Weekly newsletter (AI, Deep Learning) |
 | [City AI](https://www.getrevue.co/profile/CityAI) | Monthly newsletter (AI) |
 | [Linear Digressions podcast](http://lineardigressions.com/) | Weekly ML/data science podcast |
+| [This Week in Machine Learning](http://blog.udacity.com/this-week-machine-learning) | Weekly news on ML from Udacity |
 | [Partially Derivative podcast](http://partiallyderivative.com/) | Weekly news |
 | [This Week in Machine Learning & AI podcast](https://twimlai.com/) | |
 | [Data Sceptic podcast](https://dataskeptic.com/) | |
@@ -144,6 +147,7 @@ And only then start reading books, if you need more content - good summary of Li
 [TensorFlow Playground](http://playground.tensorflow.org) <br>
 [TensorBoard: Visualizing Learning](https://www.tensorflow.org/get_started/summaries_and_tensorboard) <br>
 [Hands-on TensorBoard (TensorFlow Dev Summit 2017)](https://www.youtube.com/watch?v=eBbEDRsCmv4&feature=youtu.be) <br>
+[Machine IDE](https://machineui.co/) <br>
 [TensorFlow Mobile](https://www.tensorflow.org/mobile/) <br>
 [MobileNets: Open-Source Models for Efficient On-Device Vision](https://research.googleblog.com/2017/06/mobilenets-open-source-models-for.html) <br>
 [TensorFlow: How to optimise your input pipeline with queues and multi-threading](https://blog.metaflow.fr/tensorflow-how-to-optimise-your-input-pipeline-with-queues-and-multi-threading-e7c3874157e0) <br>
@@ -190,6 +194,10 @@ http://www.london.ai/
 [Tips for Training Recurrent Neural Networks](http://danijar.com/tips-for-training-recurrent-neural-networks/) <br>
 [Must Know Tips/Tricks in Deep Neural Networks (by Xiu-Shen Wei)](http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html) <br>
 [The Black Magic of Deep Learning - Tips and Tricks for the practitioner](https://nmarkou.blogspot.de/2017/02/the-black-magic-of-deep-learning-tips.html) <br>
+[Deep Learning workshop - Chapter 11 Practical Methodology](https://docs.google.com/presentation/d/171B4swM4qcx64QAIgqJ2t0ZtvKWZdaFFDy6ZI_oIoS8/edit#slide=id.p), [Video 1](https://www.youtube.com/watch?v=wMivFBFWHWE&feature=youtu.be), [Video 2](https://www.youtube.com/watch?v=GGUmjFPN77Q&feature=youtu.be) <br>
+[Snapshot Ensembles: Train 1, get M for free](https://arxiv.org/abs/1704.00109) <br>
+[FreezeOut: Accelerate Training by Progressively Freezing Layers](https://arxiv.org/abs/1706.04983) <br>
+[Train your deep model faster and sharper — two novel techniques](https://hackernoon.com/training-your-deep-model-faster-and-sharper-e85076c3b047) <br>
 
 # Network optimization algorithms #
 [An overview of gradient descent optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/index.html) <br>
@@ -359,6 +367,7 @@ Github repositories with code for style transfer: <br>
 # Self-driving cars #
 [In-Depth on Udacity’s Self-Driving Car Curriculum](https://medium.com/self-driving-cars/term-1-in-depth-on-udacitys-self-driving-car-curriculum-ffcf46af0c08) <br>
 [Term 2: In-Depth on Udacity’s Self-Driving Car Curriculum](https://medium.com/udacity/term-2-in-depth-on-udacitys-self-driving-car-curriculum-775130aae502) <br>
+[Term 3: In-Depth on Udacity’s Self-Driving Car Curriculum](https://medium.com/udacity/term-3-in-depth-on-udacitys-self-driving-car-curriculum-15d03e45d7ea) <br>
 [The Secrets of Term 3 Revealed!](https://medium.com/udacity/the-secrets-of-term-3-revealed-216e0cb11a42) <br>
 [A Short Review of Udacity’s Self-Driving Car Engineer Nanodegree — First Term](https://medium.com/@mithi/a-short-review-of-udacitys-self-driving-car-engineer-nanodegree-term-1-e36f5b9a72) <br>
 [A Review of Udacity’s Self-Driving Car Engineer Nanodegree — Second Term](https://medium.com/@mithi/a-review-of-udacitys-self-driving-car-engineer-nanodegree-second-term-56147f1d01ef) <br>
@@ -372,6 +381,7 @@ Udacity Self-Driving car preparation: [Essence of linear algebra](https://www.yo
 [Hacking my own car: Lessons learnt after a few months of setbacks.](https://medium.com/@autti/hacking-my-own-car-lessons-learn-after-a-few-months-of-setbacks-76b555d28d1b) <br>
 [How do self driving cars drive? Part 1: Lane keeping assist](https://medium.com/@edersantana/how-do-self-driving-cars-drive-part-1-lane-keeping-assist-581f6ff50349) <br>
 [3 Approaches to Vehicle Detection and Tracking](https://medium.com/self-driving-cars/3-approaches-to-vehicle-detection-and-tracking-413fe50f75fc) <br>
+[Visual Object Tracking using Adaptive Correlation Filters](http://www.cs.colostate.edu/~draper/papers/bolme_cvpr10.pdf) <br>
 Blogs of Udacity students with information: <br>
 * [mithi](https://medium.com/@mithi) <br>
 * [priya.dwivedi](https://medium.com/@priya.dwivedi) <br>
@@ -411,6 +421,7 @@ Github repos of Udacity students: <br>
 [Deep Reinforcement Learning: Pong from Pixels](https://karpathy.github.io/2016/05/31/rl/) <br>
 [Minimal and Clean Reinforcement Learning Examples](https://github.com/rlcode/reinforcement-learning) <br>
 [Noisy Networks for Exploration](https://arxiv.org/abs/1706.10295) <br>
+[Trust Region Policy Optimization](https://arxiv.org/abs/1502.05477) <br>
 
 # Robotics #
 [Faster Physics in Python from OpenAI](https://blog.openai.com/faster-robot-simulation-in-python/) <br>
@@ -418,6 +429,7 @@ Github repos of Udacity students: <br>
 [Releasing the Dexterity Network (Dex-Net) 2.0 Dataset for Deep Grasping](http://bair.berkeley.edu/blog/2017/06/27/dexnet-2.0/) <br>
 [Drone Uses AI and 11,500 Crashes to Learn How to Fly](http://spectrum.ieee.org/automaton/robotics/drones/drone-uses-ai-and-11500-crashes-to-learn-how-to-fly) <br>
 [AIY Projects: Do-it-yourself AI for Makers](https://aiyprojects.withgoogle.com/voice/) and [Intro](https://developers.googleblog.com/2017/05/aiy-projects-voice-kit.html) <br>
+[A Raspberry Pi Hexy — Transcript](https://medium.com/@mithi/a-raspberry-pi-hexy-transcript-62533c69a566) <br>
 
 # Misc #
 [All the slides (and more) from the 2017 IA Summit](https://medium.com/@IAsummit/all-the-slides-and-more-from-the-2017-ia-summit-30b37f95e74e) <br>
