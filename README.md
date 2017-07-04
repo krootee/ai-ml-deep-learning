@@ -169,6 +169,8 @@ http://www.london.ai/
 
 # Neural networks #
 [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b) <br>
+[A Step by Step Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/) <br>
+[What is the difference between test set and validation set?](https://stats.stackexchange.com/questions/19048/what-is-the-difference-between-test-set-and-validation-set) <br>
 [Learning to Reason with Neural Module Networks](http://bair.berkeley.edu/blog/2017/06/20/learning-to-reason-with-neural-module-networks/) <br>
 [An Overview of Multi-Task Learning in Deep Neural Networks](http://sebastianruder.com/multi-task/) and [Paper](https://arxiv.org/abs/1706.05098) <br>
 [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size](https://arxiv.org/abs/1602.07360) <br>
@@ -179,7 +181,12 @@ http://www.london.ai/
 
 # Neural network initialization and hyper-parameters #
 [(Xavier initialization) Understanding the difficulty of training deep feedforward neural networks](http://jmlr.org/proceedings/papers/v9/glorot10a/glorot10a.pdf) and [An Explanation of Xavier Initialization](http://andyljones.tumblr.com/post/110998971763/an-explanation-of-xavier-initialization)<br>
-[(LReLU / Xavier for ReLU) Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](https://arxiv.org/abs/1502.01852) <br>
+[(ReLU) Deep Sparse Rectifier Neural Networks](http://jmlr.org/proceedings/papers/v15/glorot11a/glorot11a.pdf) <br>
+[(LRelU) Rectifier Nonlinearities Improve Neural Network Acoustic Models](http://web.stanford.edu/~awni/papers/relu_hybrid_icml2013_final.pdf) <br>
+[(PReLU + Xavier for ReLU) Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](https://arxiv.org/abs/1502.01852) <br>
+[(ThresholdedReLU) Zero-bias autoencoders and the benefits of co-adapting features](https://arxiv.org/abs/1402.3337) <br>
+[(ELU) Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)](https://arxiv.org/abs/1511.07289) <br>
+[(SELU) Self-Normalizing Neural Networks](https://arxiv.org/abs/1706.02515) and [Github](https://github.com/bioinf-jku/SNNs) <br>
 [A Simple Way to Initialize Recurrent Networks of Rectified Linear Units](https://arxiv.org/abs/1504.00941) <br>
 [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167) and [comments](https://gist.github.com/shagunsodhani/4441216a298df0fe6ab0) <br>
 [Understanding the backward pass through Batch Normalization Layer](https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html) <br>
@@ -212,6 +219,7 @@ http://www.london.ai/
 
 # CNN (Convolution Neural Networks) #
 [Systematic evaluation of CNN advances on the ImageNet](https://arxiv.org/abs/1606.02228) <br>
+[9 Key Deep Learning Papers, Explained](http://www.kdnuggets.com/2016/09/9-key-deep-learning-papers-explained.html) <br>
 [CS231n CNN intro](https://cs231n.github.io/neural-networks-1/) <br>
 [Deep Learning #3: More on CNNs & Handling Overfitting](https://medium.com/towards-data-science/deep-learning-3-more-on-cnns-handling-overfitting-2bd5d99abe5d) <br>
 [Transfer Learning from CS231n](https://cs231n.github.io/transfer-learning/) <br>
@@ -369,8 +377,6 @@ Github repositories with code for style transfer: <br>
 [Term 2: In-Depth on Udacity’s Self-Driving Car Curriculum](https://medium.com/udacity/term-2-in-depth-on-udacitys-self-driving-car-curriculum-775130aae502) <br>
 [Term 3: In-Depth on Udacity’s Self-Driving Car Curriculum](https://medium.com/udacity/term-3-in-depth-on-udacitys-self-driving-car-curriculum-15d03e45d7ea) <br>
 [The Secrets of Term 3 Revealed!](https://medium.com/udacity/the-secrets-of-term-3-revealed-216e0cb11a42) <br>
-[A Short Review of Udacity’s Self-Driving Car Engineer Nanodegree — First Term](https://medium.com/@mithi/a-short-review-of-udacitys-self-driving-car-engineer-nanodegree-term-1-e36f5b9a72) <br>
-[A Review of Udacity’s Self-Driving Car Engineer Nanodegree — Second Term](https://medium.com/@mithi/a-review-of-udacitys-self-driving-car-engineer-nanodegree-second-term-56147f1d01ef) <br>
 [Udacity Self-Driving Car Project Q&As](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkz3HerxrHlu1Seq8ZA7-5P) <br>
 Udacity Self-Driving car preparation: [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab), [Derivatives of multivariable functions](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives) <br>
 [nVidia End-to-End Deep Learning for Self-Driving Cars](https://devblogs.nvidia.com/parallelforall/deep-learning-self-driving-cars/) <br>
@@ -383,6 +389,7 @@ Udacity Self-Driving car preparation: [Essence of linear algebra](https://www.yo
 [How do self driving cars drive? Part 1: Lane keeping assist](https://medium.com/@edersantana/how-do-self-driving-cars-drive-part-1-lane-keeping-assist-581f6ff50349) <br>
 [3 Approaches to Vehicle Detection and Tracking](https://medium.com/self-driving-cars/3-approaches-to-vehicle-detection-and-tracking-413fe50f75fc) <br>
 [Visual Object Tracking using Adaptive Correlation Filters](http://www.cs.colostate.edu/~draper/papers/bolme_cvpr10.pdf) <br>
+[Visualizing lidar data](https://navoshta.com/kitti-lidar/) <br>
 [Udacity Students Past, Present, and Future](https://medium.com/self-driving-cars/udacity-students-past-present-and-future-6f9beacb3206) <br>
 [Youtube lectures on Kalman Filter](https://www.youtube.com/playlist?list=PLX2gX-ftPVXU3oUFNATxGXY90AULiqnWT) <br>
 [Youtube lectures on Model predictive control](https://www.youtube.com/playlist?list=PLs7mcKy_nInFEpygo_VrqDFCsQVnGaoy-) <br>
