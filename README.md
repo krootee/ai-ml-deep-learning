@@ -18,6 +18,7 @@
 | [Machine Learning, Deep Learning and other tutorials](https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78) | Lots of information, but not organized very well |
 | [Kaggle past solutions](http://ndres.me/kaggle-past-solutions/) | Good collection, but still missing many entries |
 | [Baidu DL hardware benchmarks](https://github.com/baidu-research/DeepBench) | Benchmarking of different DL algorithms on different hardware |
+| [Benchmarks of convnets](https://github.com/soumith/convnet-benchmarks) | Outdatd for major convnets, but have Nervana results |
 | [Benchmarks for popular CNN models](https://github.com/jcjohnson/cnn-benchmarks) | |
 
 # Newsletters and podcasts #
@@ -75,6 +76,7 @@
 | [Core ML](https://developer.apple.com/documentation/coreml) | ? | Apple OS only |
 | [ELL](https://github.com/Microsoft/ELL) | C++ | Microsoft Embedded Learning Library - Machine Learning on mini devices like Raspberry Pi |
 | [WebDNN](https://mil-tokyo.github.io/webdnn/) | Javascript | Optimized Web framework for running DNN |
+| [Intel Nervana](https://github.com/NervanaSystems/neon) | Python/C++ | Intel CPU optimized MKL framework |
 
 # Math preparation #
 Start with watching awesome [MIT Linear Algebra course](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) via [Youtube playlist](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8) - first 10 or so lectures would be enough for some time. <br>
@@ -239,6 +241,7 @@ http://www.london.ai/
 [Performance RNN: Generating Music with Expressive Timing and Dynamics](https://magenta.tensorflow.org/performance-rnn) <br>
 [Recurrent Additive Networks](http://www.kentonl.com/pub/llz.2017.pdf) <br>
 [Attention and Augmented Recurrent Neural Networks](http://distill.pub/2016/augmented-rnns/) <br>
+[Human activity recognition using TensorFlow on smartphone sensors dataset and an LSTM RNN](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition) <br>
 
 # Image processing #
 [COCO-Stuff dataset](https://arxiv.org/abs/1612.03716) and [Github](https://github.com/nightrome/cocostuff) <br>
@@ -393,6 +396,10 @@ Udacity Self-Driving car preparation: [Essence of linear algebra](https://www.yo
 [Youtube lectures on Kalman Filter](https://www.youtube.com/playlist?list=PLX2gX-ftPVXU3oUFNATxGXY90AULiqnWT) <br>
 [Youtube lectures on Model predictive control](https://www.youtube.com/playlist?list=PLs7mcKy_nInFEpygo_VrqDFCsQVnGaoy-) <br>
 [Youtube Controlling Self Driving Cars](https://www.youtube.com/watch?v=4Y7zG48uHRo) <br>
+[Autoware](https://github.com/CPFL/Autoware) <br>
+[Robot Operating System (ROS)](http://www.ros.org/) <br>
+[Baidu Apollo](http://apollo.auto) and [Github](https://github.com/ApolloAuto/apollo) <br>
+[Elcano Project autonomous driving for tricycles and like](http://www.elcanoproject.org/) <br>
 [SELF RACING CARS](http://selfracingcars.com/)<br>
 [Book The Science of Vehicle Dynamics: Handling, Braking, and Ride of Road and Race Cars](https://www.amazon.com/Science-Vehicle-Dynamics-Handling-Braking/dp/9401785325/) <br>
 [comma.ai Our Road to Self Driving Victory](https://medium.com/@comma_ai/our-road-to-self-driving-victory-603a9ed20204) <br>
