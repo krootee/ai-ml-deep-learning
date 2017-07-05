@@ -321,6 +321,7 @@ Github repositories with code for style transfer: <br>
 [Aligning the fastText vectors of 78 languages](https://github.com/Babylonpartners/fastText_multilingual) <br>
 [Offline bilingual word vectors, orthogonal transformations and the inverted softmax](https://arxiv.org/abs/1702.03859) <br>
 [ParlAI: A new software platform for dialog research](https://code.facebook.com/posts/266433647155520/parlai-a-new-software-platform-for-dialog-research/) <br>
+[Supervised Learning of Universal Sentence Representations from Natural Language Inference Data](https://arxiv.org/abs/1705.02364) and [Github](https://github.com/facebookresearch/InferSent) <br>
 
 # Sentiment analysis #
 [Unsupervised Sentiment Neuron](https://blog.openai.com/unsupervised-sentiment-neuron/) <br>
