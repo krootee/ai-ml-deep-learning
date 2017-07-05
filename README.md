@@ -195,6 +195,9 @@ http://www.london.ai/
 [Practical recommendations for gradient-based training of deep architectures](https://arxiv.org/abs/1206.5533) <br>
 [Efficient BackProp by Yann LeCun](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf) <br>
 [Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning](https://arxiv.org/abs/1506.02142) <br>
+[Improving neural networks by preventing co-adaptation of feature detectors](https://arxiv.org/abs/1207.0580) <br>
+[Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf) <br>
+[Why dropouts prevent overfitting in Deep Neural Networks](https://medium.com/@vivek.yadav/why-dropouts-prevent-overfitting-in-deep-neural-networks-937e2543a701) <br>
 [Concrete Dropout](https://arxiv.org/abs/1705.07832) and [Github](https://github.com/yaringal/ConcreteDropout) <br>
 [Hyperparameter optimization for Neural Networks](http://neupy.com/2016/12/17/hyperparameter_optimization_for_neural_networks.html) <br>
 [The Marginal Value of Adaptive Gradient Methods in Machine Learning](https://arxiv.org/abs/1705.08292) <br>
@@ -382,6 +385,7 @@ Github repositories with code for style transfer: <br>
 [Udacity Self-Driving Car Project Q&As](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkz3HerxrHlu1Seq8ZA7-5P) <br>
 Udacity Self-Driving car preparation: [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab), [Derivatives of multivariable functions](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives) <br>
 [nVidia End-to-End Deep Learning for Self-Driving Cars](https://devblogs.nvidia.com/parallelforall/deep-learning-self-driving-cars/) <br>
+[Video Amnon Shashua CVPR 2016 keynote: Autonomous Driving, Computer Vision and Machine Learning](https://www.youtube.com/watch?v=n8T7A3wqH3Q) <br>
 [Multi-Scale Context Aggregation by Dilated Convolutions](https://arxiv.org/abs/1511.07122) and [TF Github](https://github.com/ndrplz/dilation-tensorflow) <br>
 [An augmentation based deep neural network approach to learn human driving behavior](https://chatbotslife.com/using-augmentation-to-mimic-human-driving-496b569760a9) <br>
 [An Introduction to LIDAR: The Key Self-Driving Car Sensor](https://news.voyage.auto/an-introduction-to-lidar-the-key-self-driving-car-sensor-a7e405590cff) <br>
@@ -399,6 +403,7 @@ Udacity Self-Driving car preparation: [Essence of linear algebra](https://www.yo
 [Autoware](https://github.com/CPFL/Autoware) <br>
 [Robot Operating System (ROS)](http://www.ros.org/) <br>
 [Baidu Apollo](http://apollo.auto) and [Github](https://github.com/ApolloAuto/apollo) <br>
+[Open Source Self Driving Car Initiative](https://github.com/OSSDC) <br>
 [Elcano Project autonomous driving for tricycles and like](http://www.elcanoproject.org/) <br>
 [SELF RACING CARS](http://selfracingcars.com/)<br>
 [Book The Science of Vehicle Dynamics: Handling, Braking, and Ride of Road and Race Cars](https://www.amazon.com/Science-Vehicle-Dynamics-Handling-Braking/dp/9401785325/) <br>
