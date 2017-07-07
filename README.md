@@ -61,6 +61,21 @@
 | --- | --- | --- |
 | FloydHub | https://www.floydhub.com/ | Per second pricing, quick launch, very competitive prices |
 
+# Simulation frameworks #
+| Name | Details |
+| --- | --- |
+| [DeepMind Lab](https://github.com/deepmind/lab) | A customisable 3D platform for agent-based AI research |
+| [OpenAI Universe](https://universe.openai.com/) | A software platform for evaluating and training intelligent agents across the world’s supply of games, websites and other applications. |
+| [OpenAI Gym](https://gym.openai.com/) | A toolkit for developing and comparing reinforcement learning algorithms |
+| [OpenAI RoboSchool](https://github.com/openai/roboschool) | Open-source software for robot simulation, integrated with OpenAI Gym |
+| [Udacity car sim](https://github.com/udacity/self-driving-car-sim) | A self-driving car simulator built with Unity  |
+| [Microsoft AirSim](https://github.com/Microsoft/AirSim) | AirSim is a simulator for drones |
+| [Facebook ELF](https://github.com/facebookresearch/ELF) | An Extensive, Lightweight and Flexible Research Platform for Real-time Strategy Games |
+| [TorchCraft](https://github.com/TorchCraft/TorchCraft) | Connecting Torch to StarCraft |
+| [Facebook ParlAI](https://github.com/facebookresearch/ParlAI) | A framework for training and evaluating AI models on a variety of openly available dialog datasets |
+| [Baidu Apollo](https://github.com/ApolloAuto/apollo) | An open autonomous driving platform |
+| [ChosunTruck](https://github.com/bethesirius/ChosunTruck) | Euro Truck Simulator 2 autonomous driving solution |
+
 # Frameworks #
 
 | Name | Language | Comment |
@@ -130,19 +145,21 @@ And only then start reading books, if you need more content - good summary of Li
 
 # Python libraries and tools #
 
-| Name | Link | Comment |
-| --- | --- | --- |
-| Jupyter notebook | https://jupyter.org/ | Use it :) |
-| NumPy | http://www.numpy.org/ | Math |
-| SciPy | https://www.scipy.org/scipylib/index.html | Math |
-| CuPy | https://cupy.chainer.org/ | CUDA accelerated Numpy |
-| Pandas | http://pandas.pydata.org/ | Data analysis |
-| Scikit | http://scikit-learn.org/stable/ | Machine Learning algorithms |
-| matplotlib | https://matplotlib.org/ | Data visualization |
-| Seaborn | https://seaborn.pydata.org/ | Statistical data visualization |
-| Scikit-plot | https://github.com/reiinakano/scikit-plot | Add plotting to scikit-learn |
-| keras-vis | https://github.com/raghakot/keras-vis | Visualization of Keras DL layers |
-| NLTK | http://www.nltk.org/ | Natural Language Toolkit |
+| Name | Comment |
+| --- | --- |
+| [Jupyter notebook](https://jupyter.org) | Use it :) |
+| [NumPy](http://www.numpy.org) | Math |
+| [SciPy](https://www.scipy.org/scipylib/index.html) | Math |
+| [CuPy](https://cupy.chainer.org) | CUDA accelerated Numpy |
+| [Pandas](http://pandas.pydata.org) | Data analysis |
+| [Scikit](http://scikit-learn.org/stable) | Machine Learning algorithms |
+| [matplotlib](https://matplotlib.org) | Data visualization |
+| [Seaborn](https://seaborn.pydata.org) | Statistical data visualization |
+| [Scikit-plot](https://github.com/reiinakano/scikit-plot) | Add plotting to scikit-learn |
+| [keras-vis](https://github.com/raghakot/keras-vis) | Visualization of Keras DL layers |
+| [NLTK](http://www.nltk.org) | Natural Language Toolkit |
+| [Xcessiv](https://xcessiv.readthedocs.io/en/stable/) | Web-based application for quick and scalable hyperparameter tuning and stacked ensembling |
+| [Luigi](https://github.com/spotify/luigi) | Helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc |
 
 # TensorFlow & Co #
 [TensorFlow Playground](http://playground.tensorflow.org) <br>
@@ -179,6 +196,7 @@ http://www.london.ai/
 [PathNet: Evolution Channels Gradient Descent in Super Neural Networks](https://arxiv.org/abs/1701.08734) and [Intro](https://deepmind.com/research/publications/pathnet-evolution-channels-gradient-descent-super-neural-networks/) <br>
 [Data Science Bowl 2017 Can you improve lung cancer detection?](https://www.kaggle.com/c/data-science-bowl-2017/) and [Winner solution](https://github.com/lfz/DSB2017), [2nd place](https://juliandewit.github.io/kaggle-ndsb2017/) <br>
 [Neural Translation of Musical Style](http://imanmalik.com/cs/2017/06/05/neural-style.html) <br>
+[A library for benchmarking vulnerability to adversarial examples](https://github.com/tensorflow/cleverhans) <br>
 
 # Neural network initialization and hyper-parameters #
 [(Xavier initialization) Understanding the difficulty of training deep feedforward neural networks](http://jmlr.org/proceedings/papers/v9/glorot10a/glorot10a.pdf) and [An Explanation of Xavier Initialization](http://andyljones.tumblr.com/post/110998971763/an-explanation-of-xavier-initialization)<br>
@@ -215,6 +233,7 @@ http://www.london.ai/
 [Why Momentum Really Works](http://distill.pub/2017/momentum/) <br>
 
 # Neural Network visualization #
+[Facebook Visdom](https://github.com/facebookresearch/visdom) <br>
 [Picasso: A free open-source visualizer for Convolutional Neural Networks](https://medium.com/merantix/picasso-a-free-open-source-visualizer-for-cnns-d8ed3a35cfc5) and [Github](https://github.com/merantix/picasso) <br>
 [How to Visualize Your Recurrent Neural Network with Attention in Keras](https://medium.com/datalogue/attention-in-keras-1892773a4f22) <br>
 [Visualizing MNIST: An Exploration of Dimensionality Reduction](https://colah.github.io/posts/2014-10-Visualizing-MNIST/) <br>
@@ -235,6 +254,7 @@ http://www.london.ai/
 [Convolutional Methods for Text](https://medium.com/@TalPerry/convolutional-methods-for-text-d5260fd5675f)
 [Interpreting neurons in an LSTM network](https://yerevann.github.io/2017/06/27/interpreting-neurons-in-an-LSTM-network/) <br>
 [Using 3D Convolutional Neural Networks for Speaker Verification](https://arxiv.org/abs/1705.09422) and [Github](https://github.com/astorfi/3D-convolutional-speaker-recognition) <br>
+[A simple neural network module for relational reasoning](https://arxiv.org/abs/1706.01427) [Github Keras](https://github.com/Alan-Lee123/relation-network) [Github Pytorch](https://github.com/kimhc6028/relational-networks)<br>
 
 # RNN (Recurrent Neural Networks) #
 [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling](https://arxiv.org/abs/1412.3555) <br>
@@ -392,6 +412,7 @@ Udacity Self-Driving car preparation: [Essence of linear algebra](https://www.yo
 [An Introduction to LIDAR: The Key Self-Driving Car Sensor](https://news.voyage.auto/an-introduction-to-lidar-the-key-self-driving-car-sensor-a7e405590cff) <br>
 [An Introduction to the CAN Bus: How to Programmatically Control a Car](https://news.voyage.auto/an-introduction-to-the-can-bus-how-to-programmatically-control-a-car-f1b18be4f377) <br>
 [Vehicle Detection and Tracking](https://medium.com/towards-data-science/vehicle-detection-and-tracking-44b851d70508) <br>
+[How do self driving cars drive? Part 1: Lane keeping assist](https://medium.com/@edersantana/how-do-self-driving-cars-drive-part-1-lane-keeping-assist-581f6ff50349) <br>
 [Hacking my own car: Lessons learnt after a few months of setbacks.](https://medium.com/@autti/hacking-my-own-car-lessons-learn-after-a-few-months-of-setbacks-76b555d28d1b) <br>
 [How do self driving cars drive? Part 1: Lane keeping assist](https://medium.com/@edersantana/how-do-self-driving-cars-drive-part-1-lane-keeping-assist-581f6ff50349) <br>
 [3 Approaches to Vehicle Detection and Tracking](https://medium.com/self-driving-cars/3-approaches-to-vehicle-detection-and-tracking-413fe50f75fc) <br>
