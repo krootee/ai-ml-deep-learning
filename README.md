@@ -61,7 +61,10 @@
 | --- | --- |
 | [FloydHub](https://www.floydhub.com) | Per second pricing, quick launch, very competitive prices |
 | [Paperscape](https://www.paperspace.com) | Reasonable pricing, 16/24GB GPU options |
-| [AWS P3 Spot instances](http://wiki.fast.ai/index.php/AWS_Spot_instances) | Usual AWS P2 pricing is insane, but you could get Spot instances cheaper |
+| [AWS P3 Spot instances](http://wiki.fast.ai/index.php/AWS_Spot_instances) | Usual AWS P2 pricing is insane, but you could get Spot instances cheaper. <br> [How to setup](https://blog.slavv.com/learning-machine-learning-on-the-cheap-persistent-aws-spot-instances-668e7294b6d8) |
+| [Google Cloud GPU](https://cloud.google.com/free/) | $300 free credit to spend |
+| [Hetzner dedicated 1080 GPU server](https://www.hetzner.com/dedicated-rootserver/ex51-ssd-gpu) | Intel i7-6700/64GB RAM/2x500GB SSD/GeForce GTX 1080 = 99 EUR month + 99 EUR setup fee. |
+| [Google Cloud TPU](https://cloud.google.com/tpu/) | Still Alpha - pricign and availability unknown |
 
 # Simulation frameworks #
 | Name | Details |
