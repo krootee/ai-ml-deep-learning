@@ -57,9 +57,11 @@
 
 # GPU servers hosting #
 
-| Service | Link | Details |
-| --- | --- | --- |
-| FloydHub | https://www.floydhub.com/ | Per second pricing, quick launch, very competitive prices |
+| Service | Details |
+| --- | --- |
+| [FloydHub](https://www.floydhub.com) | Per second pricing, quick launch, very competitive prices |
+| [Paperscape](https://www.paperspace.com) | Reasonable pricing, 16/24GB GPU options |
+| [AWS P3 Spot instances](http://wiki.fast.ai/index.php/AWS_Spot_instances) | Usual AWS P2 pricing is insane, but you could get Spot instances cheaper |
 
 # Simulation frameworks #
 | Name | Details |
@@ -70,7 +72,7 @@
 | [OpenAI RoboSchool](https://github.com/openai/roboschool) | Open-source software for robot simulation, integrated with OpenAI Gym |
 | [Udacity car sim](https://github.com/udacity/self-driving-car-sim) | A self-driving car simulator built with Unity  |
 | [Microsoft AirSim](https://github.com/Microsoft/AirSim) | AirSim is a simulator for drones |
-| [Facebook ELF](https://github.com/facebookresearch/ELF) | An Extensive, Lightweight and Flexible Research Platform for Real-time Strategy Games |
+| [Facebook ELF](https://github.com/facebookresearch/ELF) | An Extensive, Lightweight and Flexible Research Platform for Real-time Strategy Games <br> [Intro] (https://code.facebook.com/posts/132985767285406/introducing-elf-an-extensive-lightweight-and-flexible-platform-for-game-research/) |
 | [TorchCraft](https://github.com/TorchCraft/TorchCraft) | Connecting Torch to StarCraft |
 | [Facebook ParlAI](https://github.com/facebookresearch/ParlAI) | A framework for training and evaluating AI models on a variety of openly available dialog datasets |
 | [Baidu Apollo](https://github.com/ApolloAuto/apollo) | An open autonomous driving platform |
@@ -247,6 +249,7 @@ http://www.london.ai/
 [Deep Learning #3: More on CNNs & Handling Overfitting](https://medium.com/towards-data-science/deep-learning-3-more-on-cnns-handling-overfitting-2bd5d99abe5d) <br>
 [Transfer Learning from CS231n](https://cs231n.github.io/transfer-learning/) <br>
 [What is Transfer Learning? by Sebastian Ruder](http://sebastianruder.com/transfer-learning/index.html) <br>
+[(Mean-Max Pooling) Dual Path Networks](https://arxiv.org/abs/1707.01629) and [Github](https://github.com/cypw/DPNs)<br>
 [Deconvolutional Networks](http://www.matthewzeiler.com/pubs/cvpr2010/cvpr2010.pdf) <br>
 [What are deconvolutional layers?](https://datascience.stackexchange.com/questions/6107/what-are-deconvolutional-layers) <br>
 [Deconvolution and Checkerboard Artifacts](http://distill.pub/2016/deconv-checkerboard/) <br>
@@ -345,6 +348,7 @@ Github repositories with code for style transfer: <br>
 
 # Sentiment analysis #
 [Unsupervised Sentiment Neuron](https://blog.openai.com/unsupervised-sentiment-neuron/) <br>
+[Generative and Discriminative Text Classification with Recurrent Neural Networks](https://arxiv.org/abs/1703.01898) <br>
 
 # NMT (Neural Machine Translation) #
 [Massive Exploration of Neural Machine Translation Architectures](https://arxiv.org/abs/1506.02078) <br>
@@ -355,6 +359,7 @@ Github repositories with code for style transfer: <br>
 [Multi-Scale Context Aggregation by Dilated Convolutions](https://arxiv.org/abs/1511.07122) <br>
 [The Definitive Guide to Natural Language Processing](https://monkeylearn.com/blog/the-definitive-guide-to-natural-language-processing/) <br>
 [Ultimate Guide to Understand & Implement Natural Language Processing (with codes in Python)](https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/) <br>
+[Attention and Memory in Deep Learning and NLP](http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/) <br>
 [Stanford Named Entity Recognizer (NER)](https://nlp.stanford.edu/software/CRF-NER.shtml) <br>
 [OpenNMT An open-source neural machine translation system](http://opennmt.net/) <br>
 [Text summarization with TensorFlow](https://research.googleblog.com/2016/08/text-summarization-with-tensorflow.html) <br>
@@ -363,6 +368,9 @@ Github repositories with code for style transfer: <br>
 [Recurrent Neural Networks with Word Embeddings](http://deeplearning.net/tutorial/rnnslu.html) <br>
 [Text Generation With LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/) <br>
 [Has Deep Learning been applied to automatic text summarization (successfully)?](https://www.quora.com/Has-Deep-Learning-been-applied-to-automatic-text-summarization-successfully) <br>
+[Text Clustering: Get quick insights from Unstructured Data](http://www.datasciencecentral.com/profiles/blog/show?id=6448529%3ABlogPost%3A585609) <br>
+[Natural Language Processing with Deep Learning is almost human-level accurate. Worse yet, it gets smart!](https://sigmoidal.io/boosting-your-solutions-with-nlp/) <br>
+[State-of-the-art neural coreference resolution for chatbots](https://medium.com/huggingface/state-of-the-art-neural-coreference-resolution-for-chatbots-3302365dcf30), [Github](https://github.com/huggingface/neuralcoref) and [Paper](http://cs.stanford.edu/people/kevclark/resources/clark-manning-emnlp2016-deep.pdf) <br>
 
 # Audio #
 [Neural Speech Recognizer: Acoustic-to-Word LSTM Model for Large Vocabulary Speech Recognition](https://arxiv.org/abs/1610.09975) <br>
@@ -373,6 +381,7 @@ Github repositories with code for style transfer: <br>
 # GANs (General Adversarial Networks) #
 [A list of GAN papers](https://github.com/nightrome/really-awesome-gan) <br>
 [Deep Learning Research Review Week 1: Generative Adversarial Nets](https://opendatascience.com/blog/deep-learning-research-review-week-1-generative-adversarial-nets/) <br>
+[Deep Learning with cats](https://github.com/AlexiaJM/Deep-learning-with-cats) <br>
 [CAN: Creative Adversarial Networks, Generating "Art" by Learning About Styles and Deviating from Style Norms](https://arxiv.org/abs/1706.07068) <br>
 [PixelGAN Autoencoders](https://arxiv.org/abs/1706.00531) <br>
 [Do GANs actually learn the distribution? An empirical study](https://arxiv.org/abs/1706.08224) <br>
@@ -411,6 +420,8 @@ Udacity Self-Driving car preparation: [Essence of linear algebra](https://www.yo
 [An augmentation based deep neural network approach to learn human driving behavior](https://chatbotslife.com/using-augmentation-to-mimic-human-driving-496b569760a9) <br>
 [An Introduction to LIDAR: The Key Self-Driving Car Sensor](https://news.voyage.auto/an-introduction-to-lidar-the-key-self-driving-car-sensor-a7e405590cff) <br>
 [An Introduction to the CAN Bus: How to Programmatically Control a Car](https://news.voyage.auto/an-introduction-to-the-can-bus-how-to-programmatically-control-a-car-f1b18be4f377) <br>
+[A Comparison of Self-Driving Sensors](https://medium.com/self-driving-cars/a-comparison-of-self-driving-sensors-2bb7702a85af) <br>
+[Under the Hood of a Self-Driving Taxi](https://news.voyage.auto/under-the-hood-of-a-self-driving-car-78e8bbce62a6) <br>
 [Vehicle Detection and Tracking](https://medium.com/towards-data-science/vehicle-detection-and-tracking-44b851d70508) <br>
 [How do self driving cars drive? Part 1: Lane keeping assist](https://medium.com/@edersantana/how-do-self-driving-cars-drive-part-1-lane-keeping-assist-581f6ff50349) <br>
 [Hacking my own car: Lessons learnt after a few months of setbacks.](https://medium.com/@autti/hacking-my-own-car-lessons-learn-after-a-few-months-of-setbacks-76b555d28d1b) <br>
@@ -430,6 +441,7 @@ Udacity Self-Driving car preparation: [Essence of linear algebra](https://www.yo
 [SELF RACING CARS](http://selfracingcars.com/)<br>
 [Book The Science of Vehicle Dynamics: Handling, Braking, and Ride of Road and Race Cars](https://www.amazon.com/Science-Vehicle-Dynamics-Handling-Braking/dp/9401785325/) <br>
 [comma.ai Our Road to Self Driving Victory](https://medium.com/@comma_ai/our-road-to-self-driving-victory-603a9ed20204) <br>
+[A panda and a cabana: How to get started car hacking with comma.ai](https://medium.com/@comma_ai/a-panda-and-a-cabana-how-to-get-started-car-hacking-with-comma-ai-b5e46fae8646) <br>
 [Stanford Code From Cars That Entered DARPA Grand Challenges](https://github.com/emmjaykay/stanford_self_driving_car_code) <br>
 [BERKELEY AUTONOMOUS RACE CAR](http://www.barc-project.com/) <br>
 [Self Driving RC Car](https://zhengludwig.wordpress.com/projects/self-driving-rc-car/) <br>
@@ -447,6 +459,7 @@ Udacity Self-Driving car preparation: [Essence of linear algebra](https://www.yo
 # Reinforcement Learning #
 [Deep Reinforcement Learning: Pong from Pixels](https://karpathy.github.io/2016/05/31/rl/) <br>
 [Minimal and Clean Reinforcement Learning Examples](https://github.com/rlcode/reinforcement-learning) <br>
+[Simple Reinforcement Learning article series](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0) <br>
 [Noisy Networks for Exploration](https://arxiv.org/abs/1706.10295) <br>
 [Trust Region Policy Optimization](https://arxiv.org/abs/1502.05477) <br>
 
