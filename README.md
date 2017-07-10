@@ -213,12 +213,14 @@ http://www.london.ai/
 
 # Neural network initialization and hyper-parameters #
 [(Xavier initialization) Understanding the difficulty of training deep feedforward neural networks](http://jmlr.org/proceedings/papers/v9/glorot10a/glorot10a.pdf) and [An Explanation of Xavier Initialization](http://andyljones.tumblr.com/post/110998971763/an-explanation-of-xavier-initialization)<br>
+[Layer-sequential unit-variance (LSUV) initialization All you need is a good init](https://arxiv.org/abs/1511.06422) [Keras Github](https://github.com/ducha-aiki/LSUV-keras)<br>
 [(ReLU) Deep Sparse Rectifier Neural Networks](http://jmlr.org/proceedings/papers/v15/glorot11a/glorot11a.pdf) <br>
 [(LRelU) Rectifier Nonlinearities Improve Neural Network Acoustic Models](http://web.stanford.edu/~awni/papers/relu_hybrid_icml2013_final.pdf) <br>
 [(PReLU + Xavier for ReLU) Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](https://arxiv.org/abs/1502.01852) <br>
 [(ThresholdedReLU) Zero-bias autoencoders and the benefits of co-adapting features](https://arxiv.org/abs/1402.3337) <br>
 [(ELU) Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)](https://arxiv.org/abs/1511.07289) <br>
-[(SELU) Self-Normalizing Neural Networks](https://arxiv.org/abs/1706.02515) and [Github](https://github.com/bioinf-jku/SNNs) <br>
+[(SELU) Self-Normalizing Neural Networks](https://arxiv.org/abs/1706.02515), [Github](https://github.com/bioinf-jku/SNNs) and [Reddit](https://www.reddit.com/r/MachineLearning/comments/6g5tg1/r_selfnormalizing_neural_networks_improved_elu/)<br>
+[Compare distribution of SELU, ReLU, LReLU and other activation functions](https://github.com/shaohua0116/Activation-Visualization-Histogram) and [Evaluation on ImageNet-2012](https://github.com/ducha-aiki/caffenet-benchmark/blob/master/Activations.md) <br>
 [A Simple Way to Initialize Recurrent Networks of Rectified Linear Units](https://arxiv.org/abs/1504.00941) <br>
 [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167) and [comments](https://gist.github.com/shagunsodhani/4441216a298df0fe6ab0) <br>
 [Understanding the backward pass through Batch Normalization Layer](https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html) <br>
@@ -302,14 +304,18 @@ Github repositories with code for style transfer: <br>
 * https://github.com/fchollet/keras/blob/master/examples/neural_style_transfer.py <br>
 * https://github.com/erilyth/DeepLearning-Challenges/tree/master/Art_Generation <br>
 * https://github.com/jcjohnson/neural-style <br>
+* https://github.com/xunhuang1995/AdaIN-style <br>
+* https://github.com/ProGamerGov/Neural-Tools <br>
 [Artistic style transfer for videos](https://arxiv.org/abs/1604.08610) and [Torch implementation](https://github.com/manuelruder/artistic-videos)<br>
 [Code for "How to Generate Art - Intro to Deep Learning #8' by Siraj Raval on YouTube](https://github.com/llSourcell/How-to-Generate-Art-Demo) <br>
 [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) <br>
+[Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](https://arxiv.org/abs/1703.06868) and [Github](https://github.com/xunhuang1995/AdaIN-style)<br>
 [Visual Attribute Transfer through Deep Image Analogy](https://arxiv.org/abs/1705.01088) <br>
 [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/abs/1603.08155) <br>
 [Controlling Perceptual Factors in Neural Style Transfer](https://arxiv.org/abs/1611.07865) <br>
 [cGAN-based Manga Colorization Using a Single Training Image](https://arxiv.org/abs/1706.06918) <br>
 [Incorporating long-range consistency in CNN-based texture generation](https://arxiv.org/abs/1606.01286) <br>
+[Improved Texture Networks: Maximizing Quality and Diversity in Feed-forward Stylization and Texture Synthesis](https://arxiv.org/abs/1701.02096) <br>
 
 # Image Object and Semantic segmentation #
 [A list of all papers on Semantic Segmentation and the datasets they use](https://github.com/nightrome/really-awesome-semantic-segmentation) <br>
