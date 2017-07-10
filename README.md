@@ -17,9 +17,6 @@
 | [Deep Learning tutorial by Stanford](http://ufldl.stanford.edu/tutorial/) | Very good material explaining different topics |
 | [Machine Learning, Deep Learning and other tutorials](https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78) | Lots of information, but not organized very well |
 | [Kaggle past solutions](http://ndres.me/kaggle-past-solutions/) | Good collection, but still missing many entries |
-| [Baidu DL hardware benchmarks](https://github.com/baidu-research/DeepBench) | Benchmarking of different DL algorithms on different hardware |
-| [Benchmarks of convnets](https://github.com/soumith/convnet-benchmarks) | Outdatd for major convnets, but have Nervana results |
-| [Benchmarks for popular CNN models](https://github.com/jcjohnson/cnn-benchmarks) | |
 
 # Newsletters and podcasts #
 
@@ -60,11 +57,19 @@
 | Service | Details |
 | --- | --- |
 | [FloydHub](https://www.floydhub.com) | Per second pricing, quick launch, very competitive prices |
-| [Paperscape](https://www.paperspace.com) | Reasonable pricing, 16/24GB GPU options |
+| [Paperspace](https://www.paperspace.com) | Reasonable pricing, 16/24GB GPU options |
 | [AWS P3 Spot instances](http://wiki.fast.ai/index.php/AWS_Spot_instances) | Usual AWS P2 pricing is insane, but you could get Spot instances cheaper. <br> [How to setup](https://blog.slavv.com/learning-machine-learning-on-the-cheap-persistent-aws-spot-instances-668e7294b6d8) |
 | [Google Cloud GPU](https://cloud.google.com/free/) | $300 free credit to spend |
 | [Hetzner dedicated 1080 GPU server](https://www.hetzner.com/dedicated-rootserver/ex51-ssd-gpu) | Intel i7-6700/64GB RAM/2x500GB SSD/GeForce GTX 1080 = 99 EUR month + 99 EUR setup fee. |
 | [Google Cloud TPU](https://cloud.google.com/tpu/) | Still Alpha - pricign and availability unknown |
+
+# Benchmarking #
+[Baidu DL hardware benchmarks](https://github.com/baidu-research/DeepBench) Benchmarking of different DL algorithms on different hardware <br>
+[Benchmarks of convnets](https://github.com/soumith/convnet-benchmarks) Outdatd for major convnets, but have Nervana results <br>
+[Benchmarks for popular CNN models](https://github.com/jcjohnson/cnn-benchmarks) <br>
+[Benchmarking TensorFlow on Cloud CPUs: Cheaper Deep Learning than Cloud GPUs](http://minimaxir.com/2017/07/cpu-or-gpu/) <br>
+[Github Repository to benchmark the performance of Cloud CPUs vs. Cloud GPUs on TensorFlow and Google Compute Engine](https://github.com/minimaxir/deep-learning-cpu-gpu-benchmark) <br>
+[Benchmarking State-of-the-Art Deep Learning Software Tools](http://dlbench.comp.hkbu.edu.hk/) and [Github](https://github.com/hclhkbu/dlbench) <br>
 
 # Simulation frameworks #
 | Name | Details |
@@ -78,6 +83,7 @@
 | [Facebook ELF](https://github.com/facebookresearch/ELF) | An Extensive, Lightweight and Flexible Research Platform for Real-time Strategy Games <br> [Intro] (https://code.facebook.com/posts/132985767285406/introducing-elf-an-extensive-lightweight-and-flexible-platform-for-game-research/) |
 | [TorchCraft](https://github.com/TorchCraft/TorchCraft) | Connecting Torch to StarCraft |
 | [Facebook ParlAI](https://github.com/facebookresearch/ParlAI) | A framework for training and evaluating AI models on a variety of openly available dialog datasets |
+| [OpenAI RLLab](https://github.com/openai/rllab) | Framework for developing and evaluating reinforcement learning algorithms, fully compatible with OpenAI Gym |
 | [Baidu Apollo](https://github.com/ApolloAuto/apollo) | An open autonomous driving platform |
 | [ChosunTruck](https://github.com/bethesirius/ChosunTruck) | Euro Truck Simulator 2 autonomous driving solution |
 
@@ -97,6 +103,7 @@
 | [ELL](https://github.com/Microsoft/ELL) | C++ | Microsoft Embedded Learning Library - Machine Learning on mini devices like Raspberry Pi |
 | [WebDNN](https://mil-tokyo.github.io/webdnn/) | Javascript | Optimized Web framework for running DNN |
 | [Intel Nervana](https://github.com/NervanaSystems/neon) | Python/C++ | Intel CPU optimized MKL framework |
+| [LightGBM](https://github.com/Microsoft/LightGBM) | C++ | Microsoft A fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms | 
 
 # Math preparation #
 Start with watching awesome [MIT Linear Algebra course](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) via [Youtube playlist](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8) - first 10 or so lectures would be enough for some time. <br>
@@ -144,6 +151,7 @@ And only then start reading books, if you need more content - good summary of Li
 | Coursera Probabilistic Graphical Models | [Part 1](https://www.coursera.org/learn/probabilistic-graphical-models) <br> [Part 2](https://www.coursera.org/learn/probabilistic-graphical-models-2-inference) <br> [Part 3](https://www.coursera.org/learn/probabilistic-graphical-models-3-learning) | - | More than you want to know in this area - these are very challenging courses |
 | Caltech Machine Learning course by Yaser S. Abu-Mostafa | [Official page](https://work.caltech.edu/telecourse.html) <br> [Youtube](https://www.youtube.com/watch?v=mbyG85GZ0PI&hd=1) | - | Also available via edX platform [Learning from Data](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x-0) |
 | Berkeley CS 294-129: Designing, Visualizing and Understanding Deep Neural Networks (2016) | [Official page](https://bcourses.berkeley.edu/courses/1453965) <br> [Youtube](https://www.youtube.com/playlist?list=PLkFD6_40KJIxopmdJF_CLNqG3QuDFHQUm) | - | |
+| DEEP LEARNING AND REINFORCEMENT LEARNING SUMMER SCHOOL 2017 | [Official page](https://mila.umontreal.ca/en/cours/deep-learning-summer-school-2017/) <br> [Github](https://github.com/Breakend/RLSSContinuousControlTutorial) | - | Slides only |
 | MIT Mathematics of Machine Learning 2015 | [Official page](https://ocw.mit.edu/courses/mathematics/18-657-mathematics-of-machine-learning-fall-2015/index.htm) | - | Slides only |
 | Berkeley CS 294-131: Special Topics in Deep Learning | [Official page](https://berkeley-deep-learning.github.io/cs294-131-s17/) | - | Slides only |
 | Berkeley STAT212b: Course on Deep Learning for Spring 2016 | [Official page](https://github.com/joanbruna/stat212b) | - | Slides only |
@@ -236,6 +244,8 @@ http://www.london.ai/
 # Network optimization algorithms #
 [An overview of gradient descent optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/index.html) <br>
 [Why Momentum Really Works](http://distill.pub/2017/momentum/) <br>
+[Gentle Introduction to the Adam Optimization Algorithm for Deep Learning](http://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/) <br>
+[1-Bit Stochastic Gradient Descent and its Application to Data-Parallel Distributed Training of Speech DNNs](https://www.microsoft.com/en-us/research/publication/1-bit-stochastic-gradient-descent-and-application-to-data-parallel-distributed-training-of-speech-dnns/) <br>
 
 # Neural Network visualization #
 [Facebook Visdom](https://github.com/facebookresearch/visdom) <br>
@@ -306,6 +316,7 @@ Github repositories with code for style transfer: <br>
 [ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation](https://arxiv.org/abs/1606.02147) and [Github](https://github.com/kwotsin/TensorFlow-ENet) <br>
 [Deep Learning for Photo Editing](https://blog.photoeditorsdk.com/deep-learning-for-photo-editing-943bdf9765e1) <br>
 [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556) <br>
+[The "something something" video database for learning and evaluating visual common sense](https://arxiv.org/abs/1706.04261) <br>
 
 # seq2seq (Sequence to sequence) #
 [Video Sequence to Sequence Deep Learning (Quoc Le, Google)](https://www.youtube.com/watch?v=G5RY_SUJih4) <br>
@@ -332,6 +343,7 @@ Github repositories with code for style transfer: <br>
 [Word2Vec (Part 1): NLP With Deep Learning with Tensorflow (Skip-gram)](http://www.thushv.com/natural_language_processing/word2vec-part-1-nlp-with-deep-learning-with-tensorflow-skip-gram/) <br>
 [Word2Vec (Part 2): NLP With Deep Learning with Tensorflow (CBOW)](http://www.thushv.com/natural_language_processing/word2vec-part-2-nlp-with-deep-learning-with-tensorflow-cbow/) <br>
 [Word2Vec test dataset](http://mattmahoney.net/dc/text8.zip) <br>
+[Pretrained Character Embeddings for Deep Learning and Automatic Text Generation](http://minimaxir.com/2017/04/char-embeddings/) <br>
 [Kaggle Bag of Words Meets Bags of Popcorn](https://www.kaggle.com/c/word2vec-nlp-tutorial) <br>
 [fairseq Facebook AI Research Sequence-to-Sequence Toolkit](https://github.com/facebookresearch/fairseq) <br>
 [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/projects/glove/) <br>
