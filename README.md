@@ -59,7 +59,7 @@
 | [FloydHub](https://www.floydhub.com) | Per second pricing, quick launch, very competitive prices |
 | [Paperspace](https://www.paperspace.com) | Reasonable pricing, 16/24GB GPU options |
 | [AWS P3 Spot instances](http://wiki.fast.ai/index.php/AWS_Spot_instances) | Usual AWS P2 pricing is insane, but you could get Spot instances cheaper. <br> [How to setup](https://blog.slavv.com/learning-machine-learning-on-the-cheap-persistent-aws-spot-instances-668e7294b6d8) |
-| [Google Cloud GPU](https://cloud.google.com/free/) | $300 free credit to spend |
+| [Google Cloud GPU](https://cloud.google.com/free/) | $300 free credit to spend <br> [How to setup](https://medium.com/google-cloud/jupyter-tensorflow-nvidia-gpu-docker-google-compute-engine-4a146f085f17) |
 | [Hetzner dedicated 1080 GPU server](https://www.hetzner.com/dedicated-rootserver/ex51-ssd-gpu) | Intel i7-6700/64GB RAM/2x500GB SSD/GeForce GTX 1080 = 99 EUR month + 99 EUR setup fee. |
 | [Google Cloud TPU](https://cloud.google.com/tpu/) | Still Alpha - pricign and availability unknown |
 
@@ -103,7 +103,8 @@
 | [ELL](https://github.com/Microsoft/ELL) | C++ | Microsoft Embedded Learning Library - Machine Learning on mini devices like Raspberry Pi |
 | [WebDNN](https://mil-tokyo.github.io/webdnn/) | Javascript | Optimized Web framework for running DNN |
 | [Intel Nervana](https://github.com/NervanaSystems/neon) | Python/C++ | Intel CPU optimized MKL framework |
-| [LightGBM](https://github.com/Microsoft/LightGBM) | C++ | Microsoft A fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms | 
+| [LightGBM](https://github.com/Microsoft/LightGBM) | C++ | Microsoft A fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms |
+| [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) | C++ | A Real-Time Multi-Person Keypoint Detection And Multi-Threading C++ Library |
 
 # Math preparation #
 Start with watching awesome [MIT Linear Algebra course](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) via [Youtube playlist](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8) - first 10 or so lectures would be enough for some time. <br>
@@ -273,6 +274,7 @@ http://www.london.ai/
 [Interpreting neurons in an LSTM network](https://yerevann.github.io/2017/06/27/interpreting-neurons-in-an-LSTM-network/) <br>
 [Using 3D Convolutional Neural Networks for Speaker Verification](https://arxiv.org/abs/1705.09422) and [Github](https://github.com/astorfi/3D-convolutional-speaker-recognition) <br>
 [A simple neural network module for relational reasoning](https://arxiv.org/abs/1706.01427) [Github Keras](https://github.com/Alan-Lee123/relation-network) [Github Pytorch](https://github.com/kimhc6028/relational-networks)<br>
+[Gesture recognition via CNN. Implemented in Keras + Theano + OpenCV](https://github.com/asingh33/CNNGestureRecognizer) <br>
 
 # RNN (Recurrent Neural Networks) #
 [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling](https://arxiv.org/abs/1412.3555) <br>
@@ -318,6 +320,7 @@ Github repositories with code for style transfer: <br>
 [Improved Texture Networks: Maximizing Quality and Diversity in Feed-forward Stylization and Texture Synthesis](https://arxiv.org/abs/1701.02096) <br>
 
 # Image Object and Semantic segmentation #
+[Semantic Segmentation using Fully Convolutional Networks over the years](https://meetshah1995.github.io/semantic-segmentation/deep-learning/pytorch/visdom/2017/06/01/semantic-segmentation-over-the-years.html) <br>
 [A list of all papers on Semantic Segmentation and the datasets they use](https://github.com/nightrome/really-awesome-semantic-segmentation) <br>
 [ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation](https://arxiv.org/abs/1606.02147) and [Github](https://github.com/kwotsin/TensorFlow-ENet) <br>
 [Deep Learning for Photo Editing](https://blog.photoeditorsdk.com/deep-learning-for-photo-editing-943bdf9765e1) <br>
