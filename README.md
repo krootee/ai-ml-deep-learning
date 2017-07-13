@@ -327,6 +327,29 @@ Github repositories with code for style transfer: <br>
 [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556) <br>
 [The "something something" video database for learning and evaluating visual common sense](https://arxiv.org/abs/1706.04261) <br>
 
+# NMT (Neural Machine Translation) #
+[Neural Machine Translation (seq2seq) Tutorial](https://github.com/tensorflow/nmt) and [Intro](https://research.googleblog.com/2017/07/building-your-own-neural-machine.html) <br>
+[Massive Exploration of Neural Machine Translation Architectures](https://arxiv.org/abs/1506.02078) <br>
+[Neural Machine Translation in Linear Time](https://arxiv.org/abs/1610.10099)
+[Introduction to Neural Machine Translation with GPUs (part 1)](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus/) <br>
+
+# NLP #
+[Multi-Scale Context Aggregation by Dilated Convolutions](https://arxiv.org/abs/1511.07122) <br>
+[The Definitive Guide to Natural Language Processing](https://monkeylearn.com/blog/the-definitive-guide-to-natural-language-processing/) <br>
+[Ultimate Guide to Understand & Implement Natural Language Processing (with codes in Python)](https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/) <br>
+[Attention and Memory in Deep Learning and NLP](http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/) <br>
+[Stanford Named Entity Recognizer (NER)](https://nlp.stanford.edu/software/CRF-NER.shtml) <br>
+[OpenNMT An open-source neural machine translation system](http://opennmt.net/) <br>
+[Text summarization with TensorFlow](https://research.googleblog.com/2016/08/text-summarization-with-tensorflow.html) <br>
+[Generating Sentences from a Continuous Space](https://arxiv.org/abs/1511.06349) <br>
+[Code for "How to Make a Text Summarizer - Intro to Deep Learning #10" by Siraj Raval on Youtube](https://github.com/llSourcell/How_to_make_a_text_summarizer) <br>
+[Recurrent Neural Networks with Word Embeddings](http://deeplearning.net/tutorial/rnnslu.html) <br>
+[Text Generation With LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/) <br>
+[Has Deep Learning been applied to automatic text summarization (successfully)?](https://www.quora.com/Has-Deep-Learning-been-applied-to-automatic-text-summarization-successfully) <br>
+[Text Clustering: Get quick insights from Unstructured Data](http://www.datasciencecentral.com/profiles/blog/show?id=6448529%3ABlogPost%3A585609) <br>
+[Natural Language Processing with Deep Learning is almost human-level accurate. Worse yet, it gets smart!](https://sigmoidal.io/boosting-your-solutions-with-nlp/) <br>
+[State-of-the-art neural coreference resolution for chatbots](https://medium.com/huggingface/state-of-the-art-neural-coreference-resolution-for-chatbots-3302365dcf30), [Github](https://github.com/huggingface/neuralcoref) and [Paper](http://cs.stanford.edu/people/kevclark/resources/clark-manning-emnlp2016-deep.pdf) <br>
+
 # seq2seq (Sequence to sequence) #
 [Video Sequence to Sequence Deep Learning (Quoc Le, Google)](https://www.youtube.com/watch?v=G5RY_SUJih4) <br>
 [TensorFlow Sequence-to-Sequence Models](https://www.tensorflow.org/tutorials/seq2seq) <br>
@@ -373,28 +396,6 @@ Github repositories with code for style transfer: <br>
 # Sentiment analysis #
 [Unsupervised Sentiment Neuron](https://blog.openai.com/unsupervised-sentiment-neuron/) <br>
 [Generative and Discriminative Text Classification with Recurrent Neural Networks](https://arxiv.org/abs/1703.01898) <br>
-
-# NMT (Neural Machine Translation) #
-[Massive Exploration of Neural Machine Translation Architectures](https://arxiv.org/abs/1506.02078) <br>
-[Neural Machine Translation in Linear Time](https://arxiv.org/abs/1610.10099)
-[Introduction to Neural Machine Translation with GPUs (part 1)](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus/) <br>
-
-# NLP #
-[Multi-Scale Context Aggregation by Dilated Convolutions](https://arxiv.org/abs/1511.07122) <br>
-[The Definitive Guide to Natural Language Processing](https://monkeylearn.com/blog/the-definitive-guide-to-natural-language-processing/) <br>
-[Ultimate Guide to Understand & Implement Natural Language Processing (with codes in Python)](https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/) <br>
-[Attention and Memory in Deep Learning and NLP](http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/) <br>
-[Stanford Named Entity Recognizer (NER)](https://nlp.stanford.edu/software/CRF-NER.shtml) <br>
-[OpenNMT An open-source neural machine translation system](http://opennmt.net/) <br>
-[Text summarization with TensorFlow](https://research.googleblog.com/2016/08/text-summarization-with-tensorflow.html) <br>
-[Generating Sentences from a Continuous Space](https://arxiv.org/abs/1511.06349) <br>
-[Code for "How to Make a Text Summarizer - Intro to Deep Learning #10" by Siraj Raval on Youtube](https://github.com/llSourcell/How_to_make_a_text_summarizer) <br>
-[Recurrent Neural Networks with Word Embeddings](http://deeplearning.net/tutorial/rnnslu.html) <br>
-[Text Generation With LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/) <br>
-[Has Deep Learning been applied to automatic text summarization (successfully)?](https://www.quora.com/Has-Deep-Learning-been-applied-to-automatic-text-summarization-successfully) <br>
-[Text Clustering: Get quick insights from Unstructured Data](http://www.datasciencecentral.com/profiles/blog/show?id=6448529%3ABlogPost%3A585609) <br>
-[Natural Language Processing with Deep Learning is almost human-level accurate. Worse yet, it gets smart!](https://sigmoidal.io/boosting-your-solutions-with-nlp/) <br>
-[State-of-the-art neural coreference resolution for chatbots](https://medium.com/huggingface/state-of-the-art-neural-coreference-resolution-for-chatbots-3302365dcf30), [Github](https://github.com/huggingface/neuralcoref) and [Paper](http://cs.stanford.edu/people/kevclark/resources/clark-manning-emnlp2016-deep.pdf) <br>
 
 # Audio #
 [Neural Speech Recognizer: Acoustic-to-Word LSTM Model for Large Vocabulary Speech Recognition](https://arxiv.org/abs/1610.09975) <br>
