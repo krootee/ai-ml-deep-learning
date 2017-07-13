@@ -275,6 +275,7 @@ http://www.london.ai/
 [Using 3D Convolutional Neural Networks for Speaker Verification](https://arxiv.org/abs/1705.09422) and [Github](https://github.com/astorfi/3D-convolutional-speaker-recognition) <br>
 [A simple neural network module for relational reasoning](https://arxiv.org/abs/1706.01427) [Github Keras](https://github.com/Alan-Lee123/relation-network) [Github Pytorch](https://github.com/kimhc6028/relational-networks)<br>
 [Gesture recognition via CNN. Implemented in Keras + Theano + OpenCV](https://github.com/asingh33/CNNGestureRecognizer) <br>
+[Meta-Learning with Temporal Convolutions](https://arxiv.org/abs/1707.03141) <br>
 
 # RNN (Recurrent Neural Networks) #
 [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling](https://arxiv.org/abs/1412.3555) <br>
