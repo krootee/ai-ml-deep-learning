@@ -220,7 +220,7 @@ http://www.london.ai/
 [(PReLU + Xavier for ReLU) Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](https://arxiv.org/abs/1502.01852) <br>
 [(ThresholdedReLU) Zero-bias autoencoders and the benefits of co-adapting features](https://arxiv.org/abs/1402.3337) <br>
 [(ELU) Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)](https://arxiv.org/abs/1511.07289) <br>
-[(SELU) Self-Normalizing Neural Networks](https://arxiv.org/abs/1706.02515), [Github](https://github.com/bioinf-jku/SNNs) and [Reddit](https://www.reddit.com/r/MachineLearning/comments/6g5tg1/r_selfnormalizing_neural_networks_improved_elu/)<br>
+[(SELU) Self-Normalizing Neural Networks](https://arxiv.org/abs/1706.02515), [Github](https://github.com/bioinf-jku/SNNs) + [Github research](https://gist.github.com/eamartin/d7f1f71e5ce54112fe05e2f2f17ebedf/revisions) and [Reddit](https://www.reddit.com/r/MachineLearning/comments/6g5tg1/r_selfnormalizing_neural_networks_improved_elu/)<br>
 [Compare distribution of SELU, ReLU, LReLU and other activation functions](https://github.com/shaohua0116/Activation-Visualization-Histogram) and [Evaluation on ImageNet-2012](https://github.com/ducha-aiki/caffenet-benchmark/blob/master/Activations.md) <br>
 [A Simple Way to Initialize Recurrent Networks of Rectified Linear Units](https://arxiv.org/abs/1504.00941) <br>
 [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167) and [comments](https://gist.github.com/shagunsodhani/4441216a298df0fe6ab0) <br>
@@ -350,6 +350,7 @@ Github repositories with code for style transfer: <br>
 [Text Clustering: Get quick insights from Unstructured Data](http://www.datasciencecentral.com/profiles/blog/show?id=6448529%3ABlogPost%3A585609) <br>
 [Natural Language Processing with Deep Learning is almost human-level accurate. Worse yet, it gets smart!](https://sigmoidal.io/boosting-your-solutions-with-nlp/) <br>
 [State-of-the-art neural coreference resolution for chatbots](https://medium.com/huggingface/state-of-the-art-neural-coreference-resolution-for-chatbots-3302365dcf30), [Github](https://github.com/huggingface/neuralcoref) and [Paper](http://cs.stanford.edu/people/kevclark/resources/clark-manning-emnlp2016-deep.pdf) <br>
+[Embed, encode, attend, predict: The new deep learning formula for state-of-the-art NLP models](https://explosion.ai/blog/deep-learning-formula-nlp) <br>
 
 # seq2seq (Sequence to sequence) #
 [Video Sequence to Sequence Deep Learning (Quoc Le, Google)](https://www.youtube.com/watch?v=G5RY_SUJih4) <br>
