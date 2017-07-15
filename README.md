@@ -334,6 +334,17 @@ Github repositories with code for style transfer: <br>
 [Neural Machine Translation in Linear Time](https://arxiv.org/abs/1610.10099)
 [Introduction to Neural Machine Translation with GPUs (part 1)](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus/) <br>
 
+# seq2seq (Sequence to sequence) #
+[Introduction to pointer networks](http://fastml.com/introduction-to-pointer-networks) <br>
+[Video Sequence to Sequence Deep Learning (Quoc Le, Google)](https://www.youtube.com/watch?v=G5RY_SUJih4) <br>
+[TensorFlow Sequence-to-Sequence Models](https://www.tensorflow.org/tutorials/seq2seq) <br>
+[Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215) <br>
+[Introducing tf-seq2seq: An Open Source Sequence-to-Sequence Framework in TensorFlow](https://research.googleblog.com/2017/04/introducing-tf-seq2seq-open-source.html?m=1) <br>
+[Dynamic seq2seq in TensorFlow, step by step](https://github.com/ematvey/tensorflow-seq2seq-tutorials) <br>
+[A neural chatbot using sequence to sequence model with attentional decoder](https://github.com/chiphuyen/tf-stanford-tutorials/tree/master/assignments/chatbot)
+[Deep Learning for Chatbots, Part 1 – Introduction](http://www.wildml.com/2016/04/deep-learning-for-chatbots-part-1-introduction/) <br>
+[SEQUENCE-TO-SEQUENCE RNNS FOR TEXT SUMMARIZATION](https://pdfs.semanticscholar.org/3fbc/45152f20403266b02c4c2adab26fb367522d.pdf) <br>
+
 # NLP #
 [Multi-Scale Context Aggregation by Dilated Convolutions](https://arxiv.org/abs/1511.07122) <br>
 [The Definitive Guide to Natural Language Processing](https://monkeylearn.com/blog/the-definitive-guide-to-natural-language-processing/) <br>
@@ -351,16 +362,6 @@ Github repositories with code for style transfer: <br>
 [Natural Language Processing with Deep Learning is almost human-level accurate. Worse yet, it gets smart!](https://sigmoidal.io/boosting-your-solutions-with-nlp/) <br>
 [State-of-the-art neural coreference resolution for chatbots](https://medium.com/huggingface/state-of-the-art-neural-coreference-resolution-for-chatbots-3302365dcf30), [Github](https://github.com/huggingface/neuralcoref) and [Paper](http://cs.stanford.edu/people/kevclark/resources/clark-manning-emnlp2016-deep.pdf) <br>
 [Embed, encode, attend, predict: The new deep learning formula for state-of-the-art NLP models](https://explosion.ai/blog/deep-learning-formula-nlp) <br>
-
-# seq2seq (Sequence to sequence) #
-[Video Sequence to Sequence Deep Learning (Quoc Le, Google)](https://www.youtube.com/watch?v=G5RY_SUJih4) <br>
-[TensorFlow Sequence-to-Sequence Models](https://www.tensorflow.org/tutorials/seq2seq) <br>
-[Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215) <br>
-[Introducing tf-seq2seq: An Open Source Sequence-to-Sequence Framework in TensorFlow](https://research.googleblog.com/2017/04/introducing-tf-seq2seq-open-source.html?m=1) <br>
-[Dynamic seq2seq in TensorFlow, step by step](https://github.com/ematvey/tensorflow-seq2seq-tutorials) <br>
-[A neural chatbot using sequence to sequence model with attentional decoder](https://github.com/chiphuyen/tf-stanford-tutorials/tree/master/assignments/chatbot)
-[Deep Learning for Chatbots, Part 1 – Introduction](http://www.wildml.com/2016/04/deep-learning-for-chatbots-part-1-introduction/) <br>
-[SEQUENCE-TO-SEQUENCE RNNS FOR TEXT SUMMARIZATION](https://pdfs.semanticscholar.org/3fbc/45152f20403266b02c4c2adab26fb367522d.pdf) <br>
 
 # Word embeddings #
 [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781) <br>
@@ -482,6 +483,7 @@ Udacity Self-Driving car preparation: [Essence of linear algebra](https://www.yo
 [Becoming a Self-Driving Car & Machine Learning Engineer](https://medium.com/udacity/becoming-a-self-driving-car-machine-learning-engineer-4f9433e49c19) <br>
 [Quora How do I get a job working on autonomous or self-driving cars?](https://www.quora.com/How-do-I-get-a-job-working-on-autonomous-or-self-driving-cars) <br>
 [Quora How can one learn to be a self driving car engineer?](https://www.quora.com/How-can-one-learn-to-be-a-self-driving-car-engineer) <br>
+[The Open Source Car Control Project ](https://github.com/PolySync/OSCC) <br>
 
 # Reinforcement Learning #
 [Deep Reinforcement Learning: Pong from Pixels](https://karpathy.github.io/2016/05/31/rl/) <br>
