@@ -174,6 +174,7 @@ And only then start reading books, if you need more content - good summary of Li
 | [NLTK](http://www.nltk.org) | Natural Language Toolkit |
 | [Xcessiv](https://xcessiv.readthedocs.io/en/stable/) | Web-based application for quick and scalable hyperparameter tuning and stacked ensembling |
 | [Luigi](https://github.com/spotify/luigi) | Helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc |
+| [Taggy.ai](https://taggy.ai/#/) | Helps you tag image datasets |
 
 # TensorFlow & Co #
 [TensorFlow Playground](http://playground.tensorflow.org) <br>
@@ -204,6 +205,7 @@ http://www.london.ai/
 [A Step by Step Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/) <br>
 [What is the difference between test set and validation set?](https://stats.stackexchange.com/questions/19048/what-is-the-difference-between-test-set-and-validation-set) <br>
 [Learning to Reason with Neural Module Networks](http://bair.berkeley.edu/blog/2017/06/20/learning-to-reason-with-neural-module-networks/) <br>
+[An end to end implementation of a Machine Learning pipeline](https://github.com/Spandan-Madan/DeepLearningProject) <br>
 [An Overview of Multi-Task Learning in Deep Neural Networks](http://sebastianruder.com/multi-task/) and [Paper](https://arxiv.org/abs/1706.05098) <br>
 [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size](https://arxiv.org/abs/1602.07360) <br>
 [Github SqueezeNet: AlexNet-level accuracy with 50x fewer parameters](https://github.com/DeepScale/SqueezeNet) <br>
