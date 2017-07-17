@@ -51,6 +51,7 @@
 [Python Deep Learning](https://www.amazon.com/Python-Deep-Learning-Valentino-Zocca/dp/1786464454/), [Packtpub](https://www.packtpub.com/big-data-and-business-intelligence/python-deep-learning) <br>
 [Information Theory, Inference and Learning Algorithms](http://www.inference.org.uk/itila/), [Amazon](https://www.amazon.com/Information-Theory-Inference-Learning-Algorithms/dp/0521642981/) <br>
 [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) <br>
+[All of Statistics: A Concise Course in Statistical Inference (Springer Texts in Statistics) ](https://www.amazon.com/All-Statistics-Statistical-Inference-Springer/dp/0387402721) <br>
 
 # GPU servers hosting #
 
