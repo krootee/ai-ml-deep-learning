@@ -298,6 +298,7 @@ http://www.london.ai/
 [Colorful Image Colorization](https://richzhang.github.io/colorization/) <br>
 
 # Image style transfer #
+[Neural Style Transfer: A Review of academic papers](https://github.com/ycjing/Neural-Style-Transfer-Papers) <br>
 [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) <br>
 [Convolutional neural networks for artistic style transfer](https://harishnarayanan.org/writing/artistic-style-transfer/) <br>
 [Picking an optimizer for Style Transfer](https://blog.slavv.com/picking-an-optimizer-for-style-transfer-86e7b8cba84b) <br>
@@ -317,7 +318,7 @@ Github repositories with code for style transfer: <br>
 [Code for "How to Generate Art - Intro to Deep Learning #8' by Siraj Raval on YouTube](https://github.com/llSourcell/How-to-Generate-Art-Demo) <br>
 [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) <br>
 [Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](https://arxiv.org/abs/1703.06868) and [Github](https://github.com/xunhuang1995/AdaIN-style)<br>
-[Visual Attribute Transfer through Deep Image Analogy](https://arxiv.org/abs/1705.01088) <br>
+[Visual Attribute Transfer through Deep Image Analogy](https://arxiv.org/abs/1705.01088) and [Github](https://github.com/msracver/Deep-Image-Analogy) <br>
 [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/abs/1603.08155) <br>
 [Controlling Perceptual Factors in Neural Style Transfer](https://arxiv.org/abs/1611.07865) <br>
 [cGAN-based Manga Colorization Using a Single Training Image](https://arxiv.org/abs/1706.06918) <br>
