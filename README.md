@@ -106,6 +106,7 @@
 | [Intel Nervana](https://github.com/NervanaSystems/neon) | Python/C++ | Intel CPU optimized MKL framework |
 | [LightGBM](https://github.com/Microsoft/LightGBM) | C++ | Microsoft A fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms |
 | [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) | C++ | A Real-Time Multi-Person Keypoint Detection And Multi-Threading C++ Library |
+| [Polyaxon](https://github.com/polyaxon/polyaxon) | Python | A platform that helps you build, manage and monitor deep learning models |
 
 # Math preparation #
 Start with watching awesome [MIT Linear Algebra course](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) via [Youtube playlist](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8) - first 10 or so lectures would be enough for some time. <br>
