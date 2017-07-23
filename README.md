@@ -254,6 +254,7 @@ http://www.london.ai/
 [An overview of gradient descent optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/index.html) <br>
 [Why Momentum Really Works](http://distill.pub/2017/momentum/) <br>
 [Gentle Introduction to the Adam Optimization Algorithm for Deep Learning](http://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/) <br>
+[How to Escape Saddle Points Efficiently](http://www.offconvex.org/2017/07/19/saddle-efficiency/) and [Paper](https://arxiv.org/abs/1703.00887) <br>
 [1-Bit Stochastic Gradient Descent and its Application to Data-Parallel Distributed Training of Speech DNNs](https://www.microsoft.com/en-us/research/publication/1-bit-stochastic-gradient-descent-and-application-to-data-parallel-distributed-training-of-speech-dnns/) <br>
 
 # Neural Network visualization #
@@ -271,13 +272,16 @@ http://www.london.ai/
 [Deep Learning #3: More on CNNs & Handling Overfitting](https://medium.com/towards-data-science/deep-learning-3-more-on-cnns-handling-overfitting-2bd5d99abe5d) <br>
 [Transfer Learning from CS231n](https://cs231n.github.io/transfer-learning/) <br>
 [What is Transfer Learning? by Sebastian Ruder](http://sebastianruder.com/transfer-learning/index.html) <br>
+[Network Dissection: Quantifying Interpretability of Deep Visual Representations](http://netdissect.csail.mit.edu/) and [Github](https://github.com/CSAILVision/NetDissect) <br>
 [(Mean-Max Pooling) Dual Path Networks](https://arxiv.org/abs/1707.01629) and [Github](https://github.com/cypw/DPNs)<br>
 [Deconvolutional Networks](http://www.matthewzeiler.com/pubs/cvpr2010/cvpr2010.pdf) <br>
 [What are deconvolutional layers?](https://datascience.stackexchange.com/questions/6107/what-are-deconvolutional-layers) <br>
 [Deconvolution and Checkerboard Artifacts](http://distill.pub/2016/deconv-checkerboard/) <br>
 [Architecture of Convolutional Neural Networks (CNNs) demystified](https://www.analyticsvidhya.com/blog/2017/06/architecture-of-convolutional-neural-networks-simplified-demystified/) <br>
+[Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993) and [Github](https://github.com/liuzhuang13/DenseNet)<br>
 [Convolutional Methods for Text](https://medium.com/@TalPerry/convolutional-methods-for-text-d5260fd5675f)
 [Interpreting neurons in an LSTM network](https://yerevann.github.io/2017/06/27/interpreting-neurons-in-an-LSTM-network/) <br>
+[Wide Residual Networks](https://arxiv.org/abs/1605.07146), [Github](https://github.com/szagoruyko/wide-residual-networks), [Keras version](https://github.com/titu1994/Wide-Residual-Networks/) <br>
 [Using 3D Convolutional Neural Networks for Speaker Verification](https://arxiv.org/abs/1705.09422) and [Github](https://github.com/astorfi/3D-convolutional-speaker-recognition) <br>
 [A simple neural network module for relational reasoning](https://arxiv.org/abs/1706.01427) [Github Keras](https://github.com/Alan-Lee123/relation-network) [Github Pytorch](https://github.com/kimhc6028/relational-networks)<br>
 [Gesture recognition via CNN. Implemented in Keras + Theano + OpenCV](https://github.com/asingh33/CNNGestureRecognizer) <br>
@@ -316,6 +320,7 @@ Github repositories with code for style transfer: <br>
 * https://github.com/jcjohnson/neural-style <br>
 * https://github.com/xunhuang1995/AdaIN-style <br>
 * https://github.com/ProGamerGov/Neural-Tools <br>
+[Using Other Neural Models](https://github.com/jcjohnson/neural-style/wiki/Using-Other-Neural-Models) <br>
 [Artistic style transfer for videos](https://arxiv.org/abs/1604.08610) and [Torch implementation](https://github.com/manuelruder/artistic-videos)<br>
 [Code for "How to Generate Art - Intro to Deep Learning #8' by Siraj Raval on YouTube](https://github.com/llSourcell/How-to-Generate-Art-Demo) <br>
 [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) <br>
@@ -334,12 +339,19 @@ Github repositories with code for style transfer: <br>
 [Deep Learning for Photo Editing](https://blog.photoeditorsdk.com/deep-learning-for-photo-editing-943bdf9765e1) <br>
 [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556) <br>
 [The "something something" video database for learning and evaluating visual common sense](https://arxiv.org/abs/1706.04261) <br>
+[DeNet: Scalable Real-time Object Detection with Directed Sparse Sampling](https://arxiv.org/abs/1703.10295) <br>
+[Object-Extent Pooling for Weakly Supervised Single-Shot Localization](https://arxiv.org/abs/1707.06180) <br>
+[The Devil is in the Decoder](https://arxiv.org/abs/1707.05847) <br>
+[YOLO9000: Better, Faster, Stronger](https://arxiv.org/abs/1612.08242) <br>
+[Annotating Object Instances with a Polygon-RNN](https://arxiv.org/abs/1704.05548) <br>
+[The More You Know: Using Knowledge Graphs for Image Classification](https://arxiv.org/abs/1612.04844) <br>
 
 # NMT (Neural Machine Translation) #
 [Neural Machine Translation (seq2seq) Tutorial](https://github.com/tensorflow/nmt) and [Intro](https://research.googleblog.com/2017/07/building-your-own-neural-machine.html) <br>
 [Massive Exploration of Neural Machine Translation Architectures](https://arxiv.org/abs/1506.02078) <br>
 [Neural Machine Translation in Linear Time](https://arxiv.org/abs/1610.10099)
 [Introduction to Neural Machine Translation with GPUs (part 1)](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus/) <br>
+[On the State of the Art of Evaluation in Neural Language Models](https://arxiv.org/abs/1707.05589) <br>
 
 # seq2seq (Sequence to sequence) #
 [Introduction to pointer networks](http://fastml.com/introduction-to-pointer-networks) <br>
@@ -500,6 +512,7 @@ Udacity Self-Driving car preparation: [Essence of linear algebra](https://www.yo
 [Simple Reinforcement Learning article series](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0) <br>
 [Noisy Networks for Exploration](https://arxiv.org/abs/1706.10295) <br>
 [Trust Region Policy Optimization](https://arxiv.org/abs/1502.05477) <br>
+[Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347), [Github](https://github.com/openai/baselines) and [Intro](https://blog.openai.com/openai-baselines-ppo/) <br>
 
 # Robotics #
 [Faster Physics in Python from OpenAI](https://blog.openai.com/faster-robot-simulation-in-python/) <br>
