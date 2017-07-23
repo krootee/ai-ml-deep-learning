@@ -215,6 +215,7 @@ http://www.london.ai/
 [Data Science Bowl 2017 Can you improve lung cancer detection?](https://www.kaggle.com/c/data-science-bowl-2017/) and [Winner solution](https://github.com/lfz/DSB2017), [2nd place](https://juliandewit.github.io/kaggle-ndsb2017/) <br>
 [Neural Translation of Musical Style](http://imanmalik.com/cs/2017/06/05/neural-style.html) <br>
 [A library for benchmarking vulnerability to adversarial examples](https://github.com/tensorflow/cleverhans) <br>
+[Visual Interaction Networks](https://arxiv.org/abs/1706.01433) and [Github](https://github.com/jaesik817/visual-interaction-networks_tensorflow) <br>
 
 # Neural network initialization and hyper-parameters #
 [(Xavier initialization) Understanding the difficulty of training deep feedforward neural networks](http://jmlr.org/proceedings/papers/v9/glorot10a/glorot10a.pdf) and [An Explanation of Xavier Initialization](http://andyljones.tumblr.com/post/110998971763/an-explanation-of-xavier-initialization)<br>
@@ -225,6 +226,7 @@ http://www.london.ai/
 [(ThresholdedReLU) Zero-bias autoencoders and the benefits of co-adapting features](https://arxiv.org/abs/1402.3337) <br>
 [(ELU) Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)](https://arxiv.org/abs/1511.07289) <br>
 [(SELU) Self-Normalizing Neural Networks](https://arxiv.org/abs/1706.02515), [Github](https://github.com/bioinf-jku/SNNs) + [Github research](https://gist.github.com/eamartin/d7f1f71e5ce54112fe05e2f2f17ebedf/revisions) and [Reddit](https://www.reddit.com/r/MachineLearning/comments/6g5tg1/r_selfnormalizing_neural_networks_improved_elu/)<br>
+[(CReLu) Understanding and Improving Convolutional Neural Networks via Concatenated Rectified Linear Units](https://arxiv.org/abs/1603.05201) <br>
 [Compare distribution of SELU, ReLU, LReLU and other activation functions](https://github.com/shaohua0116/Activation-Visualization-Histogram) and [Evaluation on ImageNet-2012](https://github.com/ducha-aiki/caffenet-benchmark/blob/master/Activations.md) <br>
 [A Simple Way to Initialize Recurrent Networks of Rectified Linear Units](https://arxiv.org/abs/1504.00941) <br>
 [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167) and [comments](https://gist.github.com/shagunsodhani/4441216a298df0fe6ab0) <br>
@@ -412,6 +414,7 @@ Github repositories with code for style transfer: <br>
 [Neural Audio Synthesis of Musical Notes with WaveNet Autoencoders](https://arxiv.org/abs/1704.01279) [Github](https://github.com/tensorflow/magenta/tree/master/magenta/models/nsynth) and [Intro](https://magenta.tensorflow.org/nsynth) <br>
 
 # GANs (General Adversarial Networks) #
+[Generative Adversarial Networks - nVidia GPU Tech conference 2017 intro](http://on-demand.gputechconf.com/gtc/2017/video/s7502-ian-goodfellow-generative-adversarial-networks.mp4) <br>
 [A list of GAN papers](https://github.com/nightrome/really-awesome-gan) <br>
 [Deep Learning Research Review Week 1: Generative Adversarial Nets](https://opendatascience.com/blog/deep-learning-research-review-week-1-generative-adversarial-nets/) <br>
 [Deep Learning with cats](https://github.com/AlexiaJM/Deep-learning-with-cats) <br>
@@ -493,6 +496,7 @@ Udacity Self-Driving car preparation: [Essence of linear algebra](https://www.yo
 # Reinforcement Learning #
 [Deep Reinforcement Learning: Pong from Pixels](https://karpathy.github.io/2016/05/31/rl/) <br>
 [Minimal and Clean Reinforcement Learning Examples](https://github.com/rlcode/reinforcement-learning) <br>
+[DEMYSTIFYING DEEP REINFORCEMENT LEARNING](http://neuro.cs.ut.ee/demystifying-deep-reinforcement-learning/) <br>
 [Simple Reinforcement Learning article series](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0) <br>
 [Noisy Networks for Exploration](https://arxiv.org/abs/1706.10295) <br>
 [Trust Region Policy Optimization](https://arxiv.org/abs/1502.05477) <br>
