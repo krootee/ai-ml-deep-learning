@@ -6,7 +6,8 @@
 | --- | --- |
 | [arXiv by Cornell University](https://arxiv.org/) | All  AI/ML/DL papers appear hear |
 | [arXiv - Source code for papers](http://www.gitxiv.com/) | Source for published arXiv papers |
-| [Search arXiv AI/ML/DL related papers](http://www.arxiv-sanity.com/) | Search on top of arXiv by Andrej Karpathy |
+| [Search and track arXiv AI/ML/DL related papers](http://www.arxiv-sanity.com/) | Search and track on top of arXiv by Andrej Karpathy |
+| [Mendeley Desktop](https://www.mendeley.com/downloads) | Manage reading list of papers | 
 | [Reddit ML forum](https://www.reddit.com/r/MachineLearning/) | AI/ML subforum |
 | [DataTau forum](http://www.datatau.com/) | AI/ML dedicated forum |
 | [Measuring the Progress of AI Research](https://www.eff.org/ai/metrics) | Comprehensive dataset of AI topics and advances within them |
@@ -141,6 +142,7 @@ And only then start reading books, if you need more content - good summary of Li
 | MIT 6.S094: Deep Learning for Self-Driving Cars | [Official page](http://selfdrivingcars.mit.edu/) <br> [Youtube playlist](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf) | - | |
 | Deep Learning for Speech and Language 2017 | [Official page](https://telecombcn-dl.github.io/2017-dlsl/) <br> [Youtube](https://www.youtube.com/playlist?list=PL-5DCZHuHZkWeF9ljIjoC_X5gHRLNtIkU) | - | Only course dedicated to advanced speech recognition using Deep Learning | 
 | Fast.ai Practical Deep Learning For Coders, Part 1 | [Official page](http://course.fast.ai/) <br> [Youtube](https://www.youtube.com/playlist?list=PLfYUBJiXbdtS2UQRzyrxmyVHoGW0gmLSM) | - | |
+| Fast.ai Practical Deep Learning For Coders, Part 2 | [Official page](http://course.fast.ai/part2.html) <br> [Files](http://files.fast.ai/part2/) | - | |
 | Coursera Neural Networks for Machine Learning | [Official page](https://www.coursera.org/learn/neural-networks) | - | This is very very very hard course to master - think twice before taking it ([course review here](http://thegrandjanitor.com/2017/04/10/review-of-hintons-coursera-neural-network-and-machine-learning/)) :) |
 | OpenDataScience Machine Learning course | [Official page](https://github.com/Yorko/mlcourse_open) | - | In Russian |
 | Yandex Reinforcement learning in the wild | [Official page](https://github.com/yandexdataschool/Practical_RL) | - | Links to video inside Github folders |
@@ -278,6 +280,7 @@ http://www.london.ai/
 [Deconvolutional Networks](http://www.matthewzeiler.com/pubs/cvpr2010/cvpr2010.pdf) <br>
 [What are deconvolutional layers?](https://datascience.stackexchange.com/questions/6107/what-are-deconvolutional-layers) <br>
 [Deconvolution and Checkerboard Artifacts](http://distill.pub/2016/deconv-checkerboard/) <br>
+[Convolution arithmetic tutorial](http://deeplearning.net/software/theano_versions/dev/tutorial/conv_arithmetic.html) <br>
 [Architecture of Convolutional Neural Networks (CNNs) demystified](https://www.analyticsvidhya.com/blog/2017/06/architecture-of-convolutional-neural-networks-simplified-demystified/) <br>
 [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993) and [Github](https://github.com/liuzhuang13/DenseNet)<br>
 [Convolutional Methods for Text](https://medium.com/@TalPerry/convolutional-methods-for-text-d5260fd5675f)
@@ -435,6 +438,7 @@ Github repositories with code for style transfer: <br>
 [PixelGAN Autoencoders](https://arxiv.org/abs/1706.00531) <br>
 [Do GANs actually learn the distribution? An empirical study](https://arxiv.org/abs/1706.08224) <br>
 [Keras implementation of the Conditional GAN](https://github.com/r0nn13/conditional-dcgan-keras) <br>
+[Fantastic GANs and where to find them](http://guimperarnau.com/blog/2017/03/Fantastic-GANs-and-where-to-find-them) <br>
 
 # Autoencoders #
 [Автоэнкодеры в Keras](https://habrahabr.ru/post/331382/) <br>
