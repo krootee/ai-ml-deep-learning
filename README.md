@@ -19,6 +19,7 @@
 | [Deep Learning tutorial by Stanford](http://ufldl.stanford.edu/tutorial/) | Very good material explaining different topics |
 | [Machine Learning, Deep Learning and other tutorials](https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78) | Lots of information, but not organized very well |
 | [Kaggle past solutions](http://ndres.me/kaggle-past-solutions/) | Good collection, but still missing many entries |
+| [List of pre-trained models](https://github.com/GalacticExchange/pretrained) | Pre-trained models for TensorFlow, PyTorch |
 
 # Newsletters and podcasts #
 
