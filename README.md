@@ -181,6 +181,7 @@ And only then start reading books, if you need more content - good summary of Li
 | [Xcessiv](https://xcessiv.readthedocs.io/en/stable/) | Web-based application for quick and scalable hyperparameter tuning and stacked ensembling |
 | [Luigi](https://github.com/spotify/luigi) | Helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc |
 | [Taggy.ai](https://taggy.ai/#/) | Helps you tag image datasets |
+| [Hyperopt](https://github.com/hyperopt/hyperopt) | Distributed Asynchronous Hyper-parameter Optimization |
 
 # TensorFlow & Co #
 [TensorFlow Playground](http://playground.tensorflow.org) <br>
@@ -253,6 +254,7 @@ http://www.london.ai/
 [Snapshot Ensembles: Train 1, get M for free](https://arxiv.org/abs/1704.00109) <br>
 [FreezeOut: Accelerate Training by Progressively Freezing Layers](https://arxiv.org/abs/1706.04983) <br>
 [Train your deep model faster and sharper — two novel techniques](https://hackernoon.com/training-your-deep-model-faster-and-sharper-e85076c3b047) <br>
+[Hyperopt – Finding the optimal hyper parameters](https://johnflux.com/2017/02/10/python-hyperopt-finding-the-optimal-hyper-parameters/) <br>
 
 # Network optimization algorithms #
 [An overview of gradient descent optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/index.html) <br>
