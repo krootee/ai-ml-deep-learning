@@ -255,6 +255,8 @@ http://www.london.ai/
 [FreezeOut: Accelerate Training by Progressively Freezing Layers](https://arxiv.org/abs/1706.04983) <br>
 [Train your deep model faster and sharper — two novel techniques](https://hackernoon.com/training-your-deep-model-faster-and-sharper-e85076c3b047) <br>
 [Hyperopt – Finding the optimal hyper parameters](https://johnflux.com/2017/02/10/python-hyperopt-finding-the-optimal-hyper-parameters/) <br>
+[Hyperopt tutorial for Optimizing Neural Networks’ Hyperparameters](http://vooban.com/en/tips-articles-geek-stuff/hyperopt-tutorial-for-optimizing-neural-networks-hyperparameters/)<br>
+[How to use cross-validation in predictive modeling](http://stuartlacy.co.uk/04022016-crossvalidation)<br>
 
 # Network optimization algorithms #
 [An overview of gradient descent optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/index.html) <br>
