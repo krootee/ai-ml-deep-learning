@@ -106,6 +106,7 @@
 | [Core ML](https://developer.apple.com/documentation/coreml) | ? | Apple OS only |
 | [ELL](https://github.com/Microsoft/ELL) | C++ | Microsoft Embedded Learning Library - Machine Learning on mini devices like Raspberry Pi |
 | [WebDNN](https://mil-tokyo.github.io/webdnn/) | Javascript | Optimized Web framework for running DNN |
+| [DeepLearn.js](https://pair-code.github.io/deeplearnjs/) | Javascript | Google take on DL library in Javascript |
 | [Intel Nervana](https://github.com/NervanaSystems/neon) | Python/C++ | Intel CPU optimized MKL framework |
 | [LightGBM](https://github.com/Microsoft/LightGBM) | C++ | Microsoft A fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms |
 | [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) | C++ | A Real-Time Multi-Person Keypoint Detection And Multi-Threading C++ Library |
@@ -127,7 +128,7 @@ And only then start reading books, if you need more content - good summary of Li
 | Name | Link | Rating | Comment |
 | --- | --- | --- | --- |
 | Neural Networks Demystified | [Youtube playlist](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU) | :star::star::star::star: | Good intro to neural networks - heavy on math, uses Python code |
-| Stanford CS231n: Convolutional Neural Networks for Visual Recognition | [Official page](http://cs231n.stanford.edu/) <br> [Github](https://cs231n.github.io/) <br> [Youtube playlist](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)  | :star::star::star::star::star: | Start Deep Learning education from this one - focused on image processing. Many lectures presented by Andrej Karpathy in 2016 videos |
+| Stanford CS231n: Convolutional Neural Networks for Visual Recognition | [Official page](http://cs231n.stanford.edu/) <br> [Github](https://cs231n.github.io/) <br> [Youtube 2016 playlist](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) <br> [Youtube 2017 videos](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)  | :star::star::star::star::star: | Start Deep Learning education from this one - focused on image processing. Many lectures presented by Andrej Karpathy in 2016 videos |
 | Udacity Deep Learning Foundation Nanodegree Program | [Official page](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101) | :star::star::star::star::star: | $400 for 6 months course - you would need to spend at least 10h a week to complete it. Knowledge of Python 3.x and Numpy would make your life much easier - Pandas would help too. |
 | Udacity Intro to Machine Learning | [Official page](https://classroom.udacity.com/courses/ud120) | :star::star::star::star: | Basics of ML - top algorithms, process to work with data, etc. <br> All code done in Python and scikit-learn - majority of test tasks are simple and very similiar |
 | Coursera Machine Learning by Andrew Ng | [Official page](https://www.coursera.org/learn/machine-learning) | :star::star::star::star::star: | This course is classics by now - Coursera started from it and its very good at explaining classical ML algorithms. <br> One minor annoynce - tasks are done in Octave, but you could do them in Python using unofficial [Github repo](https://github.com/mstampfer/Coursera-Stanford-ML-Python) |
@@ -423,6 +424,7 @@ Github repositories with code for style transfer: <br>
 [Offline bilingual word vectors, orthogonal transformations and the inverted softmax](https://arxiv.org/abs/1702.03859) <br>
 [ParlAI: A new software platform for dialog research](https://code.facebook.com/posts/266433647155520/parlai-a-new-software-platform-for-dialog-research/) <br>
 [Supervised Learning of Universal Sentence Representations from Natural Language Inference Data](https://arxiv.org/abs/1705.02364) and [Github](https://github.com/facebookresearch/InferSent) <br>
+[SentEval - A python tool for evaluating the quality of sentence embeddings](https://github.com/facebookresearch/SentEval)<br>
 
 # Sentiment analysis #
 [Unsupervised Sentiment Neuron](https://blog.openai.com/unsupervised-sentiment-neuron/) <br>
