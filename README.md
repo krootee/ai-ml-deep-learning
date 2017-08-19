@@ -258,6 +258,7 @@ http://www.london.ai/
 [Hyperopt – Finding the optimal hyper parameters](https://johnflux.com/2017/02/10/python-hyperopt-finding-the-optimal-hyper-parameters/) <br>
 [Hyperopt tutorial for Optimizing Neural Networks’ Hyperparameters](http://vooban.com/en/tips-articles-geek-stuff/hyperopt-tutorial-for-optimizing-neural-networks-hyperparameters/)<br>
 [How to use cross-validation in predictive modeling](http://stuartlacy.co.uk/04022016-crossvalidation)<br>
+[(Convolution resize vs deconv)Deconvolution and Checkerboard Artifacts](http://distill.pub/2016/deconv-checkerboard/) <br>
 
 # Network optimization algorithms #
 [An overview of gradient descent optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/index.html) <br>
@@ -285,7 +286,6 @@ http://www.london.ai/
 [(Mean-Max Pooling) Dual Path Networks](https://arxiv.org/abs/1707.01629) and [Github](https://github.com/cypw/DPNs)<br>
 [Deconvolutional Networks](http://www.matthewzeiler.com/pubs/cvpr2010/cvpr2010.pdf) <br>
 [What are deconvolutional layers?](https://datascience.stackexchange.com/questions/6107/what-are-deconvolutional-layers) <br>
-[Deconvolution and Checkerboard Artifacts](http://distill.pub/2016/deconv-checkerboard/) <br>
 [Convolution arithmetic tutorial](http://deeplearning.net/software/theano_versions/dev/tutorial/conv_arithmetic.html) <br>
 [Architecture of Convolutional Neural Networks (CNNs) demystified](https://www.analyticsvidhya.com/blog/2017/06/architecture-of-convolutional-neural-networks-simplified-demystified/) <br>
 [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993) and [Github](https://github.com/liuzhuang13/DenseNet)<br>
