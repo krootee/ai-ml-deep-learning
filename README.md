@@ -322,7 +322,7 @@ http://www.london.ai/
 | --- | --- |
 | [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) | Original L. Gatys paper |
 | [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/abs/1603.08155) | Work of Standford team to train neural net that would be able to estimate 1 specific artistic style |
-| [Instance Normalization: The Missing Ingredient for Fast Stylization] (https://arxiv.org/abs/1607.08022) | Follow-up on Stanford team paper that improved it by introducing Instance Normalization |
+| [Instance Normalization: The Missing Ingredient for Fast Stylization](https://arxiv.org/abs/1607.08022) | Follow-up on Stanford team paper that improved it by introducing Instance Normalization |
 | [A Learned Representation For Artistic Style](https://arxiv.org/abs/1610.07629) | Introduced ability to learn multipe styles by 1 neural net using Conditional Instance Normalization |
 | [Preserving Color in Neural Artistic Style Transfer](http://arxiv.org/abs/1606.05897) | Transfer style, but preserve original colors |
 | [Deep Photo Style Transfer](http://arxiv.org/abs/1703.07511) | Photorealistic style transfer | 
