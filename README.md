@@ -5,7 +5,9 @@
 | Name | Comment |
 | --- | --- |
 | [arXiv by Cornell University](https://arxiv.org/) | All  AI/ML/DL papers appear hear |
-| [Search arXiv AI/ML/DL related papers](http://www.arxiv-sanity.com/) | Search on top of arXiv by Andrej Karpathy |
+| [arXiv - Source code for papers](http://www.gitxiv.com/) | Source for published arXiv papers |
+| [Search and track arXiv AI/ML/DL related papers](http://www.arxiv-sanity.com/) | Search and track on top of arXiv by Andrej Karpathy |
+| [Mendeley Desktop](https://www.mendeley.com/downloads) | Manage reading list of papers | 
 | [Reddit ML forum](https://www.reddit.com/r/MachineLearning/) | AI/ML subforum |
 | [DataTau forum](http://www.datatau.com/) | AI/ML dedicated forum |
 | [Measuring the Progress of AI Research](https://www.eff.org/ai/metrics) | Comprehensive dataset of AI topics and advances within them |
@@ -17,6 +19,7 @@
 | [Deep Learning tutorial by Stanford](http://ufldl.stanford.edu/tutorial/) | Very good material explaining different topics |
 | [Machine Learning, Deep Learning and other tutorials](https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78) | Lots of information, but not organized very well |
 | [Kaggle past solutions](http://ndres.me/kaggle-past-solutions/) | Good collection, but still missing many entries |
+| [List of pre-trained models](https://github.com/GalacticExchange/pretrained) | Pre-trained models for TensorFlow, PyTorch |
 
 # Newsletters and podcasts #
 
@@ -103,6 +106,7 @@
 | [Core ML](https://developer.apple.com/documentation/coreml) | ? | Apple OS only |
 | [ELL](https://github.com/Microsoft/ELL) | C++ | Microsoft Embedded Learning Library - Machine Learning on mini devices like Raspberry Pi |
 | [WebDNN](https://mil-tokyo.github.io/webdnn/) | Javascript | Optimized Web framework for running DNN |
+| [DeepLearn.js](https://pair-code.github.io/deeplearnjs/) | Javascript | Google take on DL library in Javascript |
 | [Intel Nervana](https://github.com/NervanaSystems/neon) | Python/C++ | Intel CPU optimized MKL framework |
 | [LightGBM](https://github.com/Microsoft/LightGBM) | C++ | Microsoft A fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms |
 | [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) | C++ | A Real-Time Multi-Person Keypoint Detection And Multi-Threading C++ Library |
@@ -124,7 +128,7 @@ And only then start reading books, if you need more content - good summary of Li
 | Name | Link | Rating | Comment |
 | --- | --- | --- | --- |
 | Neural Networks Demystified | [Youtube playlist](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU) | :star::star::star::star: | Good intro to neural networks - heavy on math, uses Python code |
-| Stanford CS231n: Convolutional Neural Networks for Visual Recognition | [Official page](http://cs231n.stanford.edu/) <br> [Github](https://cs231n.github.io/) <br> [Youtube playlist](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)  | :star::star::star::star::star: | Start Deep Learning education from this one - focused on image processing. Many lectures presented by Andrej Karpathy in 2016 videos |
+| Stanford CS231n: Convolutional Neural Networks for Visual Recognition | [Official page](http://cs231n.stanford.edu/) <br> [Github](https://cs231n.github.io/) <br> [Youtube 2016 playlist](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) <br> [Youtube 2017 videos](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)  | :star::star::star::star::star: | Start Deep Learning education from this one - focused on image processing. Many lectures presented by Andrej Karpathy in 2016 videos |
 | Udacity Deep Learning Foundation Nanodegree Program | [Official page](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101) | :star::star::star::star::star: | $400 for 6 months course - you would need to spend at least 10h a week to complete it. Knowledge of Python 3.x and Numpy would make your life much easier - Pandas would help too. |
 | Udacity Intro to Machine Learning | [Official page](https://classroom.udacity.com/courses/ud120) | :star::star::star::star: | Basics of ML - top algorithms, process to work with data, etc. <br> All code done in Python and scikit-learn - majority of test tasks are simple and very similiar |
 | Coursera Machine Learning by Andrew Ng | [Official page](https://www.coursera.org/learn/machine-learning) | :star::star::star::star::star: | This course is classics by now - Coursera started from it and its very good at explaining classical ML algorithms. <br> One minor annoynce - tasks are done in Octave, but you could do them in Python using unofficial [Github repo](https://github.com/mstampfer/Coursera-Stanford-ML-Python) |
@@ -140,6 +144,7 @@ And only then start reading books, if you need more content - good summary of Li
 | MIT 6.S094: Deep Learning for Self-Driving Cars | [Official page](http://selfdrivingcars.mit.edu/) <br> [Youtube playlist](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf) | - | |
 | Deep Learning for Speech and Language 2017 | [Official page](https://telecombcn-dl.github.io/2017-dlsl/) <br> [Youtube](https://www.youtube.com/playlist?list=PL-5DCZHuHZkWeF9ljIjoC_X5gHRLNtIkU) | - | Only course dedicated to advanced speech recognition using Deep Learning | 
 | Fast.ai Practical Deep Learning For Coders, Part 1 | [Official page](http://course.fast.ai/) <br> [Youtube](https://www.youtube.com/playlist?list=PLfYUBJiXbdtS2UQRzyrxmyVHoGW0gmLSM) | - | |
+| Fast.ai Practical Deep Learning For Coders, Part 2 | [Official page](http://course.fast.ai/part2.html) <br> [Files](http://files.fast.ai/part2/) | - | |
 | Coursera Neural Networks for Machine Learning | [Official page](https://www.coursera.org/learn/neural-networks) | - | This is very very very hard course to master - think twice before taking it ([course review here](http://thegrandjanitor.com/2017/04/10/review-of-hintons-coursera-neural-network-and-machine-learning/)) :) |
 | OpenDataScience Machine Learning course | [Official page](https://github.com/Yorko/mlcourse_open) | - | In Russian |
 | Yandex Reinforcement learning in the wild | [Official page](https://github.com/yandexdataschool/Practical_RL) | - | Links to video inside Github folders |
@@ -177,6 +182,7 @@ And only then start reading books, if you need more content - good summary of Li
 | [Xcessiv](https://xcessiv.readthedocs.io/en/stable/) | Web-based application for quick and scalable hyperparameter tuning and stacked ensembling |
 | [Luigi](https://github.com/spotify/luigi) | Helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc |
 | [Taggy.ai](https://taggy.ai/#/) | Helps you tag image datasets |
+| [Hyperopt](https://github.com/hyperopt/hyperopt) | Distributed Asynchronous Hyper-parameter Optimization |
 
 # TensorFlow & Co #
 [TensorFlow Playground](http://playground.tensorflow.org) <br>
@@ -249,6 +255,10 @@ http://www.london.ai/
 [Snapshot Ensembles: Train 1, get M for free](https://arxiv.org/abs/1704.00109) <br>
 [FreezeOut: Accelerate Training by Progressively Freezing Layers](https://arxiv.org/abs/1706.04983) <br>
 [Train your deep model faster and sharper — two novel techniques](https://hackernoon.com/training-your-deep-model-faster-and-sharper-e85076c3b047) <br>
+[Hyperopt – Finding the optimal hyper parameters](https://johnflux.com/2017/02/10/python-hyperopt-finding-the-optimal-hyper-parameters/) <br>
+[Hyperopt tutorial for Optimizing Neural Networks’ Hyperparameters](http://vooban.com/en/tips-articles-geek-stuff/hyperopt-tutorial-for-optimizing-neural-networks-hyperparameters/)<br>
+[How to use cross-validation in predictive modeling](http://stuartlacy.co.uk/04022016-crossvalidation)<br>
+[(Convolution resize vs deconv)Deconvolution and Checkerboard Artifacts](http://distill.pub/2016/deconv-checkerboard/) <br>
 
 # Network optimization algorithms #
 [An overview of gradient descent optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/index.html) <br>
@@ -276,7 +286,7 @@ http://www.london.ai/
 [(Mean-Max Pooling) Dual Path Networks](https://arxiv.org/abs/1707.01629) and [Github](https://github.com/cypw/DPNs)<br>
 [Deconvolutional Networks](http://www.matthewzeiler.com/pubs/cvpr2010/cvpr2010.pdf) <br>
 [What are deconvolutional layers?](https://datascience.stackexchange.com/questions/6107/what-are-deconvolutional-layers) <br>
-[Deconvolution and Checkerboard Artifacts](http://distill.pub/2016/deconv-checkerboard/) <br>
+[Convolution arithmetic tutorial](http://deeplearning.net/software/theano_versions/dev/tutorial/conv_arithmetic.html) <br>
 [Architecture of Convolutional Neural Networks (CNNs) demystified](https://www.analyticsvidhya.com/blog/2017/06/architecture-of-convolutional-neural-networks-simplified-demystified/) <br>
 [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993) and [Github](https://github.com/liuzhuang13/DenseNet)<br>
 [Convolutional Methods for Text](https://medium.com/@TalPerry/convolutional-methods-for-text-d5260fd5675f)
@@ -402,6 +412,7 @@ http://www.london.ai/
 [Offline bilingual word vectors, orthogonal transformations and the inverted softmax](https://arxiv.org/abs/1702.03859) <br>
 [ParlAI: A new software platform for dialog research](https://code.facebook.com/posts/266433647155520/parlai-a-new-software-platform-for-dialog-research/) <br>
 [Supervised Learning of Universal Sentence Representations from Natural Language Inference Data](https://arxiv.org/abs/1705.02364) and [Github](https://github.com/facebookresearch/InferSent) <br>
+[SentEval - A python tool for evaluating the quality of sentence embeddings](https://github.com/facebookresearch/SentEval)<br>
 
 # Sentiment analysis #
 [Unsupervised Sentiment Neuron](https://blog.openai.com/unsupervised-sentiment-neuron/) <br>
@@ -422,6 +433,7 @@ http://www.london.ai/
 [PixelGAN Autoencoders](https://arxiv.org/abs/1706.00531) <br>
 [Do GANs actually learn the distribution? An empirical study](https://arxiv.org/abs/1706.08224) <br>
 [Keras implementation of the Conditional GAN](https://github.com/r0nn13/conditional-dcgan-keras) <br>
+[Fantastic GANs and where to find them](http://guimperarnau.com/blog/2017/03/Fantastic-GANs-and-where-to-find-them) <br>
 
 # Autoencoders #
 [Автоэнкодеры в Keras](https://habrahabr.ru/post/331382/) <br>
