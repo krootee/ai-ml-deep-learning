@@ -317,6 +317,7 @@ http://www.london.ai/
 [Introduction to Style Transfer from fast.ai](http://course.fast.ai/lessons/lesson8.html) <br>
 [Using other neural models for style transfer](https://github.com/jcjohnson/neural-style/wiki/Using-Other-Neural-Models) <br>
 [Picking an optimizer for Style Transfer](https://blog.slavv.com/picking-an-optimizer-for-style-transfer-86e7b8cba84b) <br>
+
 | Paper | Comment |
 | --- | --- |
 | [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) | Original L. Gatys paper |
