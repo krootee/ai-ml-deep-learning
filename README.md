@@ -304,33 +304,21 @@ http://www.london.ai/
 [Colorful Image Colorization](https://richzhang.github.io/colorization/) <br>
 
 # Image style transfer #
-[Neural Style Transfer: A Review of academic papers](https://github.com/ycjing/Neural-Style-Transfer-Papers) <br>
-[A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) <br>
-[Convolutional neural networks for artistic style transfer](https://harishnarayanan.org/writing/artistic-style-transfer/) <br>
+[Introduction to Style Transfer from fast.ai](http://course.fast.ai/lessons/lesson8.html) <br>
+[Using other neural models for style transfer](https://github.com/jcjohnson/neural-style/wiki/Using-Other-Neural-Models) <br>
 [Picking an optimizer for Style Transfer](https://blog.slavv.com/picking-an-optimizer-for-style-transfer-86e7b8cba84b) <br>
-[Intro to Style transfer](https://ml4a.github.io/ml4a/style_transfer/) <br>
-[Experiments with style transfer](http://genekogan.com/works/style-transfer/) <br>
-[How do these "neural network style transfer" tools work?](https://jvns.ca/blog/2017/02/12/neural-style/) <br>
-Github repositories with code for style transfer: <br>
-* https://github.com/slavivanov/Style-Tranfer <br>
-* https://github.com/hnarayanan/stylist <br>
-* https://github.com/hnarayanan/artistic-style-transfer <br>
-* https://github.com/fchollet/keras/blob/master/examples/neural_style_transfer.py <br>
-* https://github.com/erilyth/DeepLearning-Challenges/tree/master/Art_Generation <br>
-* https://github.com/jcjohnson/neural-style <br>
-* https://github.com/xunhuang1995/AdaIN-style <br>
-* https://github.com/ProGamerGov/Neural-Tools <br>
-[Using Other Neural Models](https://github.com/jcjohnson/neural-style/wiki/Using-Other-Neural-Models) <br>
-[Artistic style transfer for videos](https://arxiv.org/abs/1604.08610) and [Torch implementation](https://github.com/manuelruder/artistic-videos)<br>
-[Code for "How to Generate Art - Intro to Deep Learning #8' by Siraj Raval on YouTube](https://github.com/llSourcell/How-to-Generate-Art-Demo) <br>
-[A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) <br>
-[Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](https://arxiv.org/abs/1703.06868) and [Github](https://github.com/xunhuang1995/AdaIN-style)<br>
-[Visual Attribute Transfer through Deep Image Analogy](https://arxiv.org/abs/1705.01088) and [Github](https://github.com/msracver/Deep-Image-Analogy) <br>
-[Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/abs/1603.08155) <br>
-[Controlling Perceptual Factors in Neural Style Transfer](https://arxiv.org/abs/1611.07865) <br>
-[cGAN-based Manga Colorization Using a Single Training Image](https://arxiv.org/abs/1706.06918) <br>
-[Incorporating long-range consistency in CNN-based texture generation](https://arxiv.org/abs/1606.01286) <br>
-[Improved Texture Networks: Maximizing Quality and Diversity in Feed-forward Stylization and Texture Synthesis](https://arxiv.org/abs/1701.02096) <br>
+| Paper | Comment |
+| --- | --- |
+| [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) | Original L. Gatys paper |
+| [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/abs/1603.08155) | Work of Standford team to train neural net that would be able to estimate 1 specific artistic style |
+| [Instance Normalization: The Missing Ingredient for Fast Stylization] (https://arxiv.org/abs/1607.08022) | Follow-up on Stanford team paper that improved it by introducing Instance Normalization |
+| [A Learned Representation For Artistic Style](https://arxiv.org/abs/1610.07629) | Introduced ability to learn multipe styles by 1 neural net using Conditional Instance Normalization |
+| [Preserving Color in Neural Artistic Style Transfer](http://arxiv.org/abs/1606.05897) | Transfer style, but preserve original colors |
+| [Deep Photo Style Transfer](http://arxiv.org/abs/1703.07511) | Photorealistic style transfer | 
+| [Demystifying Neural Style Transfer](http://arxiv.org/abs/1701.01036) | Provided math, explaining that Gram matrices is equivalent to minimize the Maximum Mean Discrepancy (MMD) and new methods for style transfer |
+| [Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](http://arxiv.org/abs/1703.06868) | Transfer arbitary style to new image without pre-learning it |
+| [Neural Style Transfer: A Review](http://arxiv.org/abs/1705.04058) <br> [Github repository](https://github.com/ycjing/Neural-Style-Transfer-Papers) <br> | Overview of major papers in area of style transfer |  
+| [Artistic style transfer for videos](https://arxiv.org/abs/1604.08610) and [Torch implementation](https://github.com/manuelruder/artistic-videos)<br> | Paper that proposed approach for solving issues related to style transfer to video content |
 
 # Image Object and Semantic segmentation #
 [Semantic Segmentation using Fully Convolutional Networks over the years](https://meetshah1995.github.io/semantic-segmentation/deep-learning/pytorch/visdom/2017/06/01/semantic-segmentation-over-the-years.html) <br>
