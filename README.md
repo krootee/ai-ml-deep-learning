@@ -428,6 +428,7 @@ http://www.london.ai/
 # GANs (General Adversarial Networks) #
 [Generative Adversarial Networks - nVidia GPU Tech conference 2017 intro](http://on-demand.gputechconf.com/gtc/2017/video/s7502-ian-goodfellow-generative-adversarial-networks.mp4) <br>
 [A list of GAN papers](https://github.com/nightrome/really-awesome-gan) <br>
+[Collection of generative models in Tensorflow](https://github.com/hwalsuklee/tensorflow-generative-model-collections) <br>
 [Deep Learning Research Review Week 1: Generative Adversarial Nets](https://opendatascience.com/blog/deep-learning-research-review-week-1-generative-adversarial-nets/) <br>
 [Deep Learning with cats](https://github.com/AlexiaJM/Deep-learning-with-cats) <br>
 [CAN: Creative Adversarial Networks, Generating "Art" by Learning About Styles and Deviating from Style Norms](https://arxiv.org/abs/1706.07068) <br>
