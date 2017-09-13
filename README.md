@@ -179,6 +179,7 @@ And only then start reading books, if you need more content - good summary of Li
 | [Scikit-plot](https://github.com/reiinakano/scikit-plot) | Add plotting to scikit-learn |
 | [keras-vis](https://github.com/raghakot/keras-vis) | Visualization of Keras DL layers |
 | [NLTK](http://www.nltk.org) | Natural Language Toolkit |
+| [AllenNLP](http://allennlp.org/) | An open-source NLP research library, built on PyTorch |
 | [Xcessiv](https://xcessiv.readthedocs.io/en/stable/) | Web-based application for quick and scalable hyperparameter tuning and stacked ensembling |
 | [Luigi](https://github.com/spotify/luigi) | Helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc |
 | [Taggy.ai](https://taggy.ai/#/) | Helps you tag image datasets |
@@ -440,6 +441,7 @@ http://www.london.ai/
 # Autoencoders #
 [Автоэнкодеры в Keras](https://habrahabr.ru/post/331382/) <br>
 [Using Deep Learning to Reconstruct High-Resolution Audio](https://blog.insightdatascience.com/using-deep-learning-to-reconstruct-high-resolution-audio-29deee8b7ccd) <br>
+["Training Deep AutoEncoders for Collaborative Filtering"](https://github.com/NVIDIA/DeepRecommender) <br>
 
 # One-shot learning #
 [One-shot Learning with Memory-Augmented Neural Networks](https://arxiv.org/abs/1605.06065) + [Explanation](https://rylanschaeffer.github.io/content/research/one_shot_learning_with_memory_augmented_nn/main.html)
