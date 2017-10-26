@@ -227,6 +227,7 @@ http://www.london.ai/
 # Neural network initialization and hyper-parameters #
 [(Xavier initialization) Understanding the difficulty of training deep feedforward neural networks](http://jmlr.org/proceedings/papers/v9/glorot10a/glorot10a.pdf) and [An Explanation of Xavier Initialization](http://andyljones.tumblr.com/post/110998971763/an-explanation-of-xavier-initialization)<br>
 [Layer-sequential unit-variance (LSUV) initialization All you need is a good init](https://arxiv.org/abs/1511.06422) [Keras Github](https://github.com/ducha-aiki/LSUV-keras)<br>
+[Swish activation](http://arxiv.org/abs/1710.05941) <br>
 [(ReLU) Deep Sparse Rectifier Neural Networks](http://jmlr.org/proceedings/papers/v15/glorot11a/glorot11a.pdf) <br>
 [(LRelU) Rectifier Nonlinearities Improve Neural Network Acoustic Models](http://web.stanford.edu/~awni/papers/relu_hybrid_icml2013_final.pdf) <br>
 [(PReLU + Xavier for ReLU) Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](https://arxiv.org/abs/1502.01852) <br>
