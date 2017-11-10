@@ -11,6 +11,7 @@
 | [Reddit ML forum](https://www.reddit.com/r/MachineLearning/) | AI/ML subforum |
 | [DataTau forum](http://www.datatau.com/) | AI/ML dedicated forum |
 | [Measuring the Progress of AI Research](https://www.eff.org/ai/metrics) | Comprehensive dataset of AI topics and advances within them |
+| [State of the Art results in different domain](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems) | Github repo to papers and results with SotA results |
 | [The Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/) | Chart and high-level overview of different Neural Networks |
 | [Guide to Machine Learning by Yerevann](http://yerevann.com/a-guide-to-deep-learning/) | Very good collection of materials for different topics |
 | [A Tour of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/) | Overview of ML algorithms |
