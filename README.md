@@ -61,8 +61,9 @@
 
 | Service | Details |
 | --- | --- |
-| [FloydHub](https://www.floydhub.com) | Per second pricing, quick launch, very competitive prices |
-| [Paperspace](https://www.paperspace.com) | Reasonable pricing, 16/24GB GPU options |
+| [Crestle](https://www.crestle.com/) | Per second pricing, switch between CPU/GPU |
+| [Paperspace](https://www.paperspace.com) | Very good pricing, V100, 16/24GB GPU options |
+| [FloydHub](https://www.floydhub.com) | Per second pricing, quick launch, competitive prices |
 | [AWS P3 Spot instances](http://wiki.fast.ai/index.php/AWS_Spot_instances) | Usual AWS P2 pricing is insane, but you could get Spot instances cheaper. <br> [How to setup](https://blog.slavv.com/learning-machine-learning-on-the-cheap-persistent-aws-spot-instances-668e7294b6d8) |
 | [Google Cloud GPU](https://cloud.google.com/free/) | $300 free credit to spend <br> [How to setup](https://medium.com/google-cloud/jupyter-tensorflow-nvidia-gpu-docker-google-compute-engine-4a146f085f17) |
 | [Hetzner dedicated 1080 GPU server](https://www.hetzner.com/dedicated-rootserver/ex51-ssd-gpu) | Intel i7-6700/64GB RAM/2x500GB SSD/GeForce GTX 1080 = 99 EUR month + 99 EUR setup fee. |
