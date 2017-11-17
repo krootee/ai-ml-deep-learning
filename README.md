@@ -535,3 +535,6 @@ Udacity Self-Driving car preparation: [Essence of linear algebra](https://www.yo
 [All the slides (and more) from the 2017 IA Summit](https://medium.com/@IAsummit/all-the-slides-and-more-from-the-2017-ia-summit-30b37f95e74e) <br>
 https://medium.com/intuitionmachine/navigating-the-unsupervised-learning-landscape-951bd5842df9 <br>
 https://blog.twitter.com/engineering/en_us/topics/insights/2017/using-deep-learning-at-scale-in-twitters-timelines.html <br>
+
+# Conference videos #
+[ICCV17](https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/playlists) <br>
