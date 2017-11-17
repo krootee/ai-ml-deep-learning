@@ -92,6 +92,7 @@
 | [Facebook ParlAI](https://github.com/facebookresearch/ParlAI) | A framework for training and evaluating AI models on a variety of openly available dialog datasets |
 | [OpenAI RLLab](https://github.com/openai/rllab) | Framework for developing and evaluating reinforcement learning algorithms, fully compatible with OpenAI Gym |
 | [Baidu Apollo](https://github.com/ApolloAuto/apollo) | An open autonomous driving platform |
+| [Carla car simulator](http://carla.org/) | CARLA is an open-source simulator for autonomous driving research |
 | [ChosunTruck](https://github.com/bethesirius/ChosunTruck) | Euro Truck Simulator 2 autonomous driving solution |
 
 # Frameworks #
