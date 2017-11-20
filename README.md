@@ -6,6 +6,7 @@
 | --- | --- |
 | [arXiv by Cornell University](https://arxiv.org/) | All  AI/ML/DL papers appear hear |
 | [arXiv - Source code for papers](http://www.gitxiv.com/) | Source for published arXiv papers |
+| [arXiv Chrome extension](https://fermatslibrary.com/librarian) | Display arXiv paper related information |
 | [Search and track arXiv AI/ML/DL related papers](http://www.arxiv-sanity.com/) | Search and track on top of arXiv by Andrej Karpathy |
 | [Mendeley Desktop](https://www.mendeley.com/downloads) | Manage reading list of papers | 
 | [Reddit ML forum](https://www.reddit.com/r/MachineLearning/) | AI/ML subforum |
