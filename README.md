@@ -539,3 +539,4 @@ https://blog.twitter.com/engineering/en_us/topics/insights/2017/using-deep-learn
 
 # Conference videos #
 [ICCV17](https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/playlists) <br>
+[NIPS 2017](https://www.facebook.com/pg/nipsfoundation/videos/) <br>
