@@ -63,6 +63,7 @@
 
 | Service | Details |
 | --- | --- |
+| [Google Colabotory](https://colab.research.google.com) | Free GPU server for AI tasks |
 | [Crestle](https://www.crestle.com/) | Per second pricing, switch between CPU/GPU |
 | [Paperspace](https://www.paperspace.com) | Very good pricing, V100, 16/24GB GPU options |
 | [FloydHub](https://www.floydhub.com) | Per second pricing, quick launch, competitive prices |
